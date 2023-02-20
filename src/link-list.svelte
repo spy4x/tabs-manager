@@ -1,4 +1,7 @@
 <script lang="ts">
+  import type { Link } from '@prisma/client';
+
+  export let links: Link[];
 </script>
 
 <div>
@@ -16,23 +19,13 @@
       </thead>
       <tbody>
         <!-- row 1 -->
-        <tr>
-          <td>https://www.google.com</td>
-          <td>1</td>
-          <td>Yes</td>
-        </tr>
-        <!-- row 2 -->
-        <tr class="active">
-          <td>https://www.youtube.com</td>
-          <td>2</td>
-          <td>No</td>
-        </tr>
-        <!-- row 3 -->
-        <tr>
-          <td>https://www.facebook.com</td>
-          <td>3</td>
-          <td>Yes</td>
-        </tr>
+        {#each links as link (link.id)}
+          <tr>
+            <td>{link.url}</td>
+            <td>{link.priority}</td>
+            <td>{link.isFavorite}</td>
+          </tr>
+        {/each}
       </tbody>
     </table>
   </div>
