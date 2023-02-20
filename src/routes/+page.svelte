@@ -1,4 +1,9 @@
-<h1 class="text-3xl font-bold underline">Hello world</h1>
+<script lang="ts">
+  import LinkCreate from '../link-create.svelte';
+  import LinkList from '../link-list.svelte';
+</script>
 
-<a href="/sign-in">Sign in</a>
-<a href="/sign-up">Sign up</a>
+<div class="flex gap-12">
+  <LinkCreate />
+  <LinkList />
+</div>
