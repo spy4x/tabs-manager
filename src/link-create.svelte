@@ -1,5 +1,5 @@
 <script lang="ts">
-  const socket = new WebSocket('ws://localhost:8080');
+  import { linkStore } from '$lib/client';
 
   let url = '';
   let priority = '';
@@ -11,11 +11,10 @@
       priority,
       isFavorite,
     };
-    socket.send(JSON.stringify(link));
+    linkStore.add(link);
     url = '';
     priority = '';
     isFavorite = false;
-    location.reload();
   }
 </script>
 
@@ -43,5 +42,8 @@
       <span class="label-text">Is favorite?</span>
     </label>
   </div>
-  <button class="btn btn-primary max-w-xs">Add</button>
+  <button class="btn btn-primary max-w-xs {$linkStore.isAdding ? 'loading' : ''}">Add</button>
+  {#if $linkStore.addError}
+    <div class="text-red-500">{$linkStore.addError}</div>
+  {/if}
 </form>

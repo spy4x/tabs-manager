@@ -1,7 +1,5 @@
 <script lang="ts">
-  import type { Link } from '@prisma/client';
-
-  export let links: Link[];
+  import { linkStore } from '$lib/client';
 </script>
 
 <div>
@@ -19,7 +17,7 @@
       </thead>
       <tbody>
         <!-- row 1 -->
-        {#each links as link (link.id)}
+        {#each $linkStore.links as link (link.id)}
           <tr>
             <td>{link.url}</td>
             <td>{link.priority}</td>
