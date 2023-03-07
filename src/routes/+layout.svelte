@@ -1,4 +1,5 @@
 <script>
+  import { authStore } from '$lib/client';
   import '../app.css';
 </script>
 
@@ -9,12 +10,19 @@
     </div>
     <div class="flex-none">
       <ul class="menu menu-horizontal px-1">
-        <li><a href="/sign-in">Sign in</a></li>
-        <li><a href="/sign-up">Sign up</a></li>
+        {#if $authStore.user}
+          <li>{$authStore.user.id}</li>
+          <li><a on:click={authStore.signOut} href="javascript:;">Sign out</a></li>
+        {:else}
+          <li><a href="/sign-in">Sign in</a></li>
+          <li><a href="/sign-up">Sign up</a></li>
+        {/if}
       </ul>
     </div>
   </div>
 </div>
+
+<pre>{JSON.stringify($authStore, null, 4)}</pre>
 
 <div class="container mx-auto">
   <slot />

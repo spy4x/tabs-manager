@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "name": "tm-local",
+      "connectString": "postgresql://tabs-manager:localPassword@localhost:5432/tabs-manager?schema=public"
+    }
+  ]
+}
