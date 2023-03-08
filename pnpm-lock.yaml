@@ -27,6 +27,7 @@ specifiers:
   vite: ^4.0.0
   vitest: ^0.25.3
   ws: ^8.12.1
+  zod: ^3.21.4
 
 dependencies:
   '@lucia-auth/adapter-prisma': 0.5.3_lucia-auth@0.8.0
@@ -34,6 +35,7 @@ dependencies:
   '@types/ws': 8.5.4
   lucia-auth: 0.8.0
   ws: 8.12.1
+  zod: 3.21.4
 
 devDependencies:
   '@playwright/test': 1.30.0
@@ -2352,3 +2354,7 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
     dev: true
+
+  /zod/3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+    dev: false

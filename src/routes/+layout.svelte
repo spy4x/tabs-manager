@@ -11,7 +11,9 @@
     <div class="flex-none">
       <ul class="menu menu-horizontal px-1">
         {#if $authStore.user}
-          <li>{$authStore.user.id}</li>
+          <li>
+            <img src="/img/user.svg" class="h-16" alt="User avatar" />
+          </li>
           <li><a on:click={authStore.signOut} href="javascript:;">Sign out</a></li>
         {:else}
           <li><a href="/sign-in">Sign in</a></li>
@@ -21,8 +23,6 @@
     </div>
   </div>
 </div>
-
-<pre>{JSON.stringify($authStore, null, 4)}</pre>
 
 <div class="container mx-auto">
   <slot />

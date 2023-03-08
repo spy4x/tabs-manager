@@ -1,4 +1,5 @@
 import { goto } from '$app/navigation';
+import type { AuthError } from '@models';
 import { get, writable } from 'svelte/store';
 import { getSocket } from '../services/ws';
 
@@ -11,7 +12,7 @@ export interface AuthStore {
     sessionId: string;
   };
   isLoading: boolean;
-  error?: string;
+  error?: AuthError;
 }
 
 const initialState: AuthStore = {
@@ -41,6 +42,12 @@ socket.addEventListener('message', (event) => {
       localStorage.removeItem(LOCAL_STORAGE_KEY);
       return;
     }
+    case 'auth/signIn/error':
+    case 'auth/signUp/error':
+    case 'auth/signOut/error': {
+      setState({ isLoading: false, error: message.data });
+      return;
+    }
   }
 });
 
@@ -57,6 +64,9 @@ export const authStore = {
   signOut: () => {
     setState({ isLoading: true, error: undefined });
     socket.send(JSON.stringify({ t: 'auth/signOut' }));
+  },
+  reset: () => {
+    setState(initialState);
   },
 };
 

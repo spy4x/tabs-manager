@@ -1,6 +1,8 @@
 import { WebSocketServer } from 'ws';
 import { auth } from './auth';
 import { prisma } from './prisma';
+import { ZodError } from 'zod';
+import { AuthSchema } from '../shared/models';
 
 export function wssCreate() {
   const port = 8080;
@@ -50,30 +52,31 @@ export function wssCreate() {
         }
         case 'auth/signIn': {
           try {
-            const key = await auth.validateKeyPassword(
-              'email',
-              message.data.email,
-              message.data.password,
-            );
+            const payload = AuthSchema.parse(message.data);
+            const key = await auth.validateKeyPassword('email', payload.email, payload.password);
             userId = key.userId;
             const session = await auth.createSession(userId);
             sessionId = session.sessionId;
             ws.send(JSON.stringify({ t: 'auth/signedIn', data: { id: userId, sessionId } }));
           } catch (error: unknown) {
-            console.error(error);
-            if (error instanceof Error) {
-              ws.send(JSON.stringify({ t: 'auth/signIn/error', data: error.message }));
+            if (error instanceof ZodError) {
+              console.log(error);
+              ws.send(JSON.stringify({ t: 'auth/signIn/error', data: error.format() }));
+            } else {
+              console.error(error);
+              ws.send(JSON.stringify({ t: 'auth/signIn/error', data: 'Server error' }));
             }
           }
           break;
         }
         case 'auth/signUp': {
           try {
+            const payload = AuthSchema.parse(message.data);
             const user = await auth.createUser({
               key: {
                 providerId: 'email',
-                providerUserId: message.data.email,
-                password: message.data.password,
+                providerUserId: payload.email,
+                password: payload.password,
               },
               attributes: {},
             });
@@ -87,9 +90,12 @@ export function wssCreate() {
               }),
             );
           } catch (error: unknown) {
-            console.error(error);
-            if (error instanceof Error) {
-              ws.send(JSON.stringify({ t: 'auth/signUp/error', data: error.message }));
+            if (error instanceof ZodError) {
+              console.log(error);
+              ws.send(JSON.stringify({ t: 'auth/signUp/error', data: error.format() }));
+            } else {
+              console.error(error);
+              ws.send(JSON.stringify({ t: 'auth/signUp/error', data: 'Server error' }));
             }
           }
           break;
