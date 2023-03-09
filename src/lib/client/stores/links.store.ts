@@ -1,6 +1,8 @@
 import { writable } from 'svelte/store';
 import type { Link } from '@prisma/client';
 import { getSocket } from '../services/ws';
+import type { LinkAddCommand } from '@models/link';
+import { authStore } from './auth.store';
 
 const socket = await getSocket();
 
@@ -42,7 +44,7 @@ socket.addEventListener('message', (event) => {
 
 export const linkStore = {
   subscribe: store.subscribe,
-  add: (link: Link) => {
+  add: (link: LinkAddCommand) => {
     setState({ isAdding: true, addError: undefined });
     socket.send(JSON.stringify({ t: 'link/add', data: link }));
   },
@@ -52,4 +54,14 @@ export const linkStore = {
   },
 };
 
-linkStore.fetchList();
+let wasPreviouslyAuthenticated = false;
+authStore.subscribe((state) => {
+  if (state.isAuthenticated && !wasPreviouslyAuthenticated) {
+    wasPreviouslyAuthenticated = true;
+    linkStore.fetchList();
+  }
+  if (wasPreviouslyAuthenticated && !state.isAuthenticated) {
+    wasPreviouslyAuthenticated = false;
+    setState(initialState);
+  }
+});

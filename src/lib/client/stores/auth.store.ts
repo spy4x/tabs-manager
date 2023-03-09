@@ -4,19 +4,21 @@ import { get, writable } from 'svelte/store';
 import { getSocket } from '../services/ws';
 
 const socket = await getSocket();
-const LOCAL_STORAGE_KEY = 'auth';
+const LOCAL_STORAGE_KEY_USER_ID = 'auth_user_id';
+const LOCAL_STORAGE_KEY_SESSION_ID = 'auth_session_id';
 
 export interface AuthStore {
-  user?: {
-    id: string;
-    sessionId: string;
-  };
+  userId: string;
+  sessionId: string;
+  isAuthenticated: boolean;
   isLoading: boolean;
   error?: AuthError;
 }
 
 const initialState: AuthStore = {
-  user: JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY) || 'null'),
+  userId: localStorage.getItem(LOCAL_STORAGE_KEY_USER_ID) || '',
+  sessionId: localStorage.getItem(LOCAL_STORAGE_KEY_SESSION_ID) || '',
+  isAuthenticated: false,
   isLoading: false,
   error: undefined,
 };
@@ -32,14 +34,28 @@ socket.addEventListener('message', (event) => {
   switch (message.t) {
     case 'auth/signedIn':
     case 'auth/signedUp': {
-      setState({ user: message.data, isLoading: false, error: undefined });
-      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(message.data));
+      setState({
+        userId: message.data.id,
+        sessionId: message.data.sessionId,
+        isAuthenticated: true,
+        isLoading: false,
+        error: undefined,
+      });
+      localStorage.setItem(LOCAL_STORAGE_KEY_USER_ID, message.data.id);
+      localStorage.setItem(LOCAL_STORAGE_KEY_SESSION_ID, message.data.sessionId);
       goto('/');
       return;
     }
     case 'auth/signedOut': {
-      setState({ user: undefined, isLoading: false, error: undefined });
-      localStorage.removeItem(LOCAL_STORAGE_KEY);
+      setState({
+        userId: '',
+        sessionId: '',
+        isAuthenticated: false,
+        isLoading: false,
+        error: undefined,
+      });
+      localStorage.removeItem(LOCAL_STORAGE_KEY_USER_ID);
+      localStorage.removeItem(LOCAL_STORAGE_KEY_SESSION_ID);
       return;
     }
     case 'auth/signIn/error':
@@ -71,11 +87,11 @@ export const authStore = {
 };
 
 const state = get(authStore);
-if (state.user) {
+if (state.userId && state.sessionId && !state.isAuthenticated) {
   socket.send(
     JSON.stringify({
       t: 'auth/reSignIn',
-      data: { id: state.user.id, sessionId: state.user.sessionId },
+      data: { id: state.userId, sessionId: state.sessionId },
     }),
   );
 }

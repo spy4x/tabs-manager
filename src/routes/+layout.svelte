@@ -10,7 +10,7 @@
     </div>
     <div class="flex-none">
       <ul class="menu menu-horizontal px-1">
-        {#if $authStore.user}
+        {#if $authStore.userId}
           <li>
             <img src="/img/user.svg" class="h-16" alt="User avatar" />
           </li>
