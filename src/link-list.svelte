@@ -11,6 +11,8 @@
       <thead>
         <tr>
           <th>URL</th>
+          <th>Title</th>
+          <th>Description</th>
           <th>Priority</th>
           <th>Favorite</th>
         </tr>
@@ -20,6 +22,8 @@
         {#each $linkStore.links as link (link.id)}
           <tr>
             <td>{link.url}</td>
+            <td>{link.title}</td>
+            <td>{link.description}</td>
             <td>{link.priority}</td>
             <td>{link.isFavorite}</td>
           </tr>

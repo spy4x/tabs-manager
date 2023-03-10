@@ -51,14 +51,15 @@ model Key {
 }
 
 model Link {
-  id         String       @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  userId     String       @map("user_id")
-  url        String       @db.VarChar(1000)
-  title      String?      @db.VarChar(100)
-  priority   LinkPriority @default(MEDIUM)
-  isFavorite Boolean      @default(false) @map("is_favorite")
-  createdAt  DateTime     @default(now()) @map("created_at")
-  updatedAt  DateTime     @default(now()) @updatedAt @map("updated_at")
+  id          String       @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId      String       @map("user_id")
+  url         String       @db.VarChar(1000)
+  title       String?      @db.VarChar(100)
+  description String?      @db.VarChar(1000)
+  priority    LinkPriority @default(MEDIUM)
+  isFavorite  Boolean      @default(false) @map("is_favorite")
+  createdAt   DateTime     @default(now()) @map("created_at")
+  updatedAt   DateTime     @default(now()) @updatedAt @map("updated_at")
 
   user User @relation(references: [id], fields: [userId], onDelete: Cascade)
 
