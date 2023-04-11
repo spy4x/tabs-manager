@@ -10,10 +10,10 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model User {
-  id          String      @id @unique
-  session     Session[]
-  Key         Key[]
+model AuthUser {
+  id          String        @id @unique
+  session     AuthSession[]
+  Key         AuthKey[]
   // here you can add custom fields for your user
   // e.g. name, email, username, roles, etc.
   links       Link[]
@@ -23,24 +23,24 @@ model User {
   @@map("user")
 }
 
-model Session {
-  id             String @id @unique
+model AuthSession {
+  id             String   @id @unique
   user_id        String
   active_expires BigInt
   idle_expires   BigInt
-  user           User   @relation(references: [id], fields: [user_id], onDelete: Cascade)
+  user           AuthUser @relation(references: [id], fields: [user_id], onDelete: Cascade)
 
   @@index([user_id])
   @@map("session")
 }
 
-model Key {
-  id              String  @id @unique
+model AuthKey {
+  id              String   @id @unique
   hashed_password String?
   user_id         String
-  primary         Boolean
+  primary_key     Boolean
   expires         BigInt?
-  user            User    @relation(references: [id], fields: [user_id], onDelete: Cascade)
+  user            AuthUser @relation(references: [id], fields: [user_id], onDelete: Cascade)
 
   @@index([user_id])
   @@map("key")
@@ -57,7 +57,7 @@ model Link {
   createdAt   DateTime @default(now()) @map("created_at")
   updatedAt   DateTime @default(now()) @updatedAt @map("updated_at")
 
-  user User        @relation(references: [id], fields: [userId], onDelete: Cascade)
+  user AuthUser    @relation(references: [id], fields: [userId], onDelete: Cascade)
   tags TagToLink[]
 
   @@map("links")
@@ -72,7 +72,7 @@ model Tag {
   updatedAt DateTime @default(now()) @updatedAt @map("updated_at")
 
   links TagToLink[]
-  user  User        @relation(references: [id], fields: [userId], onDelete: Cascade)
+  user  AuthUser    @relation(references: [id], fields: [userId], onDelete: Cascade)
 
   @@map("tags")
 }
@@ -84,9 +84,9 @@ model TagToLink {
   createdAt DateTime @default(now()) @map("created_at")
   updatedAt DateTime @default(now()) @updatedAt @map("updated_at")
 
-  tag  Tag  @relation(references: [id], fields: [tagId], onDelete: Cascade)
-  link Link @relation(references: [id], fields: [linkId], onDelete: Cascade)
-  user User @relation(references: [id], fields: [userId], onDelete: Cascade)
+  tag  Tag      @relation(references: [id], fields: [tagId], onDelete: Cascade)
+  link Link     @relation(references: [id], fields: [linkId], onDelete: Cascade)
+  user AuthUser @relation(references: [id], fields: [userId], onDelete: Cascade)
 
   @@id([tagId, linkId])
   @@map("tags_to_links")

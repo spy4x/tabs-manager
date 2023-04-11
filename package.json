@@ -15,11 +15,11 @@
     "format": "prettier --plugin-search-dir . --write ."
   },
   "devDependencies": {
-    "@playwright/test": "^1.32.2",
+    "@playwright/test": "^1.32.3",
     "@sveltejs/adapter-auto": "^2.0.0",
     "@sveltejs/kit": "^1.15.2",
-    "@typescript-eslint/eslint-plugin": "^5.57.1",
-    "@typescript-eslint/parser": "^5.57.1",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
     "autoprefixer": "^10.4.14",
     "daisyui": "^2.51.5",
     "eslint": "^8.38.0",
@@ -41,10 +41,10 @@
   },
   "type": "module",
   "dependencies": {
-    "@lucia-auth/adapter-prisma": "^0.5.3",
+    "@lucia-auth/adapter-prisma": "^1.0.0",
     "@prisma/client": "^4.12.0",
     "@types/ws": "^8.5.4",
-    "lucia-auth": "^0.8.0",
+    "lucia-auth": "^1.0.0",
     "open-graph-scraper": "^5.2.3",
     "ws": "^8.13.0",
     "zod": "^3.21.4"

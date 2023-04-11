@@ -3,7 +3,7 @@ import { prisma } from '../prisma';
 import type { WebSocket } from 'ws';
 import type { Context } from '../types';
 import { LinkAddSchema } from '../../shared/models/link';
-import ogs from 'open-graph-scraper';
+import type ogs from 'open-graph-scraper';
 
 type OgObject = Awaited<ReturnType<typeof ogs>>['result'];
 

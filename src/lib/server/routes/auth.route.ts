@@ -31,7 +31,7 @@ export async function authRouter(
     case 'auth/signIn': {
       return wsWrapper('auth/signIn', ws, async () => {
         const payload = AuthSchema.parse(data);
-        const key = await auth.validateKeyPassword('email', payload.email, payload.password);
+        const key = await auth.useKey('email', payload.email, payload.password);
         context.userId = key.userId;
         const session = await auth.createSession(context.userId);
         context.sessionId = session.sessionId;
@@ -45,7 +45,7 @@ export async function authRouter(
       return wsWrapper('auth/signUp', ws, async () => {
         const payload = AuthSchema.parse(data);
         const user = await auth.createUser({
-          key: {
+          primaryKey: {
             providerId: 'email',
             providerUserId: payload.email,
             password: payload.password,
