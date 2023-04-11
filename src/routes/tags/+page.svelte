@@ -1,12 +1,12 @@
 <script lang="ts">
-  import { LinkList, LinkCreate } from '@components';
+  import { TagCreate, TagList } from '@components';
 </script>
 
 <div class="flex gap-12">
   <div class="w-48 flex-shrink-0">
-    <LinkCreate />
+    <TagCreate />
   </div>
   <div>
-    <LinkList />
+    <TagList />
   </div>
 </div>

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { authStore } from '$lib/client';
+  import { authStore } from '@stores';
   import { onMount } from 'svelte';
 
   export let mode: 'sign-in' | 'sign-up' = 'sign-in';
@@ -19,13 +19,13 @@
   });
 </script>
 
-<div class="flex flex-col max-w-xs gap-3 mx-auto">
+<div class="mx-auto flex max-w-xs flex-col gap-3">
   <h1 class="text-2xl font-bold">{mode === 'sign-in' ? 'Sign in' : 'Sign up'}</h1>
   <input
     type="email"
     bind:value={email}
     placeholder="Email"
-    class="input input-bordered max-w-xs"
+    class="input-bordered input max-w-xs"
   />
   {#if $authStore.error?.email}
     <div class="text-red-500">{$authStore.error.email._errors}</div>
@@ -34,12 +34,12 @@
     type="password"
     bind:value={password}
     placeholder="Password"
-    class="input input-bordered max-w-xs"
+    class="input-bordered input max-w-xs"
   />
   {#if $authStore.error?.password}
     <div class="text-red-500">{$authStore.error.password._errors}</div>
   {/if}
-  <button on:click={submit} type="button" class="btn btn-primary"> Submit </button>
+  <button on:click={submit} type="button" class="btn-primary btn"> Submit </button>
 
   {#if $authStore.error?._errors}
     <div class="text-red-500">{$authStore.error?._errors}</div>

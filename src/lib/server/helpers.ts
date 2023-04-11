@@ -9,6 +9,7 @@ export async function wsWrapper(
   try {
     await fn();
   } catch (error: unknown) {
+    console.error(error);
     const errorType = `${type}/error`;
     if (error instanceof ZodError) {
       ws.send(JSON.stringify({ t: errorType, data: error.format() }));

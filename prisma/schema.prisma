@@ -10,19 +10,15 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-enum LinkPriority {
-  LOW
-  MEDIUM
-  HIGH
-}
-
 model User {
-  id      String    @id @unique
-  session Session[]
-  Key     Key[]
+  id          String      @id @unique
+  session     Session[]
+  Key         Key[]
   // here you can add custom fields for your user
   // e.g. name, email, username, roles, etc.
-  links   Link[]
+  links       Link[]
+  tags        Tag[]
+  tagsToLinks TagToLink[]
 
   @@map("user")
 }
@@ -51,17 +47,47 @@ model Key {
 }
 
 model Link {
-  id          String       @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  userId      String       @map("user_id")
-  url         String       @db.VarChar(1000)
-  title       String?      @db.VarChar(100)
-  description String?      @db.VarChar(1000)
-  priority    LinkPriority @default(MEDIUM)
-  isFavorite  Boolean      @default(false) @map("is_favorite")
-  createdAt   DateTime     @default(now()) @map("created_at")
-  updatedAt   DateTime     @default(now()) @updatedAt @map("updated_at")
+  id          String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  userId      String   @map("user_id")
+  url         String   @db.VarChar(1000)
+  title       String?  @db.VarChar(100)
+  description String?  @db.VarChar(1000)
+  priority    Int      @default(0) @db.SmallInt
+  isFavorite  Boolean  @default(false) @map("is_favorite")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @default(now()) @updatedAt @map("updated_at")
 
-  user User @relation(references: [id], fields: [userId], onDelete: Cascade)
+  user User        @relation(references: [id], fields: [userId], onDelete: Cascade)
+  tags TagToLink[]
 
   @@map("links")
+}
+
+model Tag {
+  id        String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  title     String   @db.VarChar(100)
+  color     String   @db.VarChar(7)
+  userId    String   @map("user_id")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @default(now()) @updatedAt @map("updated_at")
+
+  links TagToLink[]
+  user  User        @relation(references: [id], fields: [userId], onDelete: Cascade)
+
+  @@map("tags")
+}
+
+model TagToLink {
+  tagId     String   @map("tag_id") @db.Uuid
+  linkId    String   @map("link_id") @db.Uuid
+  userId    String   @map("user_id")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @default(now()) @updatedAt @map("updated_at")
+
+  tag  Tag  @relation(references: [id], fields: [tagId], onDelete: Cascade)
+  link Link @relation(references: [id], fields: [linkId], onDelete: Cascade)
+  user User @relation(references: [id], fields: [userId], onDelete: Cascade)
+
+  @@id([tagId, linkId])
+  @@map("tags_to_links")
 }

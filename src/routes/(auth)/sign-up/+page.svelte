@@ -1,5 +1,5 @@
 <script lang="ts">
-  import {Auth} from '@components';
+  import { Auth } from '@components';
 </script>
 
-<Auth mode={'sign-up'}/>
+<Auth mode={'sign-up'} />

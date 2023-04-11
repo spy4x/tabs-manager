@@ -3,28 +3,41 @@
 Tabs Manager is a cloud-based solution to manage your browser tabs across multiple devices. This repository contains the source code for the frontend and backend components of the application.
 
 ## Features roadmap
-✅ Real-time communication between frontend and backend using WebSockets
+### Tech
 ✅ Cloud-based storage that syncs between browsers
-- Offline-first approach with in-browser DB
-- Responsive and modern user interface with DaisyUI
 ✅ Type-safe ORM for Node.js using Prisma
+- Offline-first approach with in-browser DB
+    - Dixie.js
+    - PouchDB
+- Responsive and modern user interface with TailwindCSS and DaisyUI
+- Deploy to ...
 - Easy setup and configuration using Docker
-- Authentication 
-    ✅ with Email and Password 
-    - with Email Link 
-    - with Google 
-    - with GitHub 
-    - with Facebook
+
+### Features
+- ✅ Authentication 
 - Links
     ✅ Create link
+        ✅ Attach tags
+        - Create & attach tags
+        - Attach folders
+        - Create & attach folders
     ✅ List links
     - Update link
+        - Add tag to link
+        - Remove tag from link
+        - Add folder to link
+        - Remove folder from link
     - Delete link
-    - Priority
-    - Is favorite
-    - Status (new, in progress, done-liked, done-disliked)
-    - Private note
-    - Parse Open Graph data
+    - Fields:
+        ✅ Priority
+        ✅ Is favorite
+        - Status (new, in progress, done-liked, done-disliked)
+        - Private note
+        - Parse Open Graph data
+        - Type
+            - Article
+            - Video
+            - Website
     - Filters
         - Read today mode (sorted by priority, then by createdAt)
         - Random mode
@@ -34,29 +47,24 @@ Tabs Manager is a cloud-based solution to manage your browser tabs across multip
         - Tags
         - Folders
     - Search
-        - by title (full text search)
+        - Full text search (title, description)
         - by URL
         - by content
 - Tags
-    - Create tag
-    - List tags
+    ✅ Create tag
+    ✅ List tags
     - Update tag
     - Delete tag
-    - Assign tag to link
-    - Remove tag from link
-    - Merge tags
+    - ? Merge tags
 - Folders
     - Create folder
     - List folders
     - Update folder
     - Delete folder
-    - Assign folder to link
-    - Remove folder from link
     - Nested
 - Fast add & import
     - bookmarklet
     - import browser bookmarks
-- Motivation to read/watch
 - Browser extension
     - add links quick
     - show information about current url
@@ -68,6 +76,24 @@ Tabs Manager is a cloud-based solution to manage your browser tabs across multip
 - PWA
     - to save urls quickly
     - offline mode
+- Profile
+    - Change password
+    - Forgot password
+- Authentication 
+    - with Google 
+    - with GitHub 
+    - with Facebook
+- Settings
+    - Show/hide tags
+    - Show/hide folders
+    - Show/hide status
+    - Show/hide priority
+    - Show/hide private note
+    - Show/hide type
+    - Show/hide read today mode
+    - Show/hide random mode
+    - Show/hide favorites
+- Motivation to read/watch
 - Mobile wrapper for iPhone and Android
     - to save urls quickly
     - offline mode
@@ -76,7 +102,7 @@ Tabs Manager is a cloud-based solution to manage your browser tabs across multip
 
 ```bash
 pnpm install
-pnpm dev
+pnpm start
 ```
 
 ## Contributing

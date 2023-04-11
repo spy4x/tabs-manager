@@ -1,7 +1,7 @@
 import { WebSocketServer } from 'ws';
 import { z } from 'zod';
 import type { Context } from './types';
-import { authRouter, linkRouter } from './routes';
+import { authRouter, linkRouter, tagRouter } from './routes';
 import { wsWrapper } from './helpers';
 
 export function wssCreate() {
@@ -24,6 +24,8 @@ export function wssCreate() {
           void authRouter(ws, context, message.t, message.data);
         } else if (type.startsWith('link/')) {
           void linkRouter(ws, context, message.t, message.data);
+        } else if (type.startsWith('tag/')) {
+          void tagRouter(ws, context, message.t, message.data);
         }
       }),
     );
