@@ -1,6 +1,5 @@
 <script lang="ts">
   import { authStore } from '@stores';
-  import { onMount } from 'svelte';
 
   export let mode: 'sign-in' | 'sign-up' = 'sign-in';
 
@@ -14,9 +13,6 @@
       authStore.signUp(email, password);
     }
   }
-  onMount(() => {
-    authStore.reset();
-  });
 </script>
 
 <div class="mx-auto flex max-w-xs flex-col gap-3">

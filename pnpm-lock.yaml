@@ -60,15 +60,9 @@ devDependencies:
   prettier:
     specifier: ^2.8.7
     version: 2.8.7
-  prettier-plugin-sql:
-    specifier: ^0.13.0
-    version: 0.13.0(prettier@2.8.7)
   prettier-plugin-svelte:
     specifier: ^2.10.0
     version: 2.10.0(prettier@2.8.7)(svelte@3.58.0)
-  prettier-plugin-tailwindcss:
-    specifier: ^0.2.7
-    version: 0.2.7(prettier-plugin-svelte@2.10.0)(prettier@2.8.7)
   prisma:
     specifier: ^4.12.0
     version: 4.12.0
@@ -781,11 +775,6 @@ packages:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
     dev: true
 
-  /big-integer@1.6.51:
-    resolution: {integrity: sha512-GPEid2Y9QU1Exl1rpO9B2IPJGHPSupF5GnVIP0blYvNOMer2bTvSWs1jGOUg04hTmu67nmLsQ9TBo1puaotBHg==}
-    engines: {node: '>=0.6'}
-    dev: true
-
   /binary-extensions@2.2.0:
     resolution: {integrity: sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==}
     engines: {node: '>=8'}
@@ -957,10 +946,6 @@ packages:
       color-string: 1.9.1
     dev: true
 
-  /commander@2.20.3:
-    resolution: {integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==}
-    dev: true
-
   /commander@4.1.1:
     resolution: {integrity: sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==}
     engines: {node: '>= 6'}
@@ -1086,10 +1071,6 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       path-type: 4.0.0
-    dev: true
-
-  /discontinuous-range@1.0.0:
-    resolution: {integrity: sha512-c68LpLbO+7kP/b1Hr1qs8/BJ09F5khZGTxqxZuhzxpmwJKOgRFHJWIb9/KmqnqHhLdO55aOxFH/EGBvUQbL/RQ==}
     dev: true
 
   /dlv@1.1.3:
@@ -1781,10 +1762,6 @@ packages:
       minimist: 1.2.8
     dev: true
 
-  /moo@0.5.2:
-    resolution: {integrity: sha512-iSAJLHYKnX41mKcJKjqvnAN9sf0LMDTXDEvFv+ffuRR9a1MIuXLjMNL6EsnDHSkKLTWNqQQ5uo61P4EbU4NU+Q==}
-    dev: true
-
   /mri@1.2.0:
     resolution: {integrity: sha512-tzzskb3bG8LvYGFF/mDTpq3jpI6Q9wc3LEmBaghu+DdCssd1FakN7Bc0hVNmEyGq1bq3RgfkCb3cmQLpNPOroA==}
     engines: {node: '>=4'}
@@ -1827,25 +1804,8 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /nearley@2.20.1:
-    resolution: {integrity: sha512-+Mc8UaAebFzgV+KpI5n7DasuuQCHA89dmwm7JXw3TV43ukfNQ9DnBH3Mdb2g/I4Fdxc26pwimBWvjIw0UAILSQ==}
-    hasBin: true
-    dependencies:
-      commander: 2.20.3
-      moo: 0.5.2
-      railroad-diagrams: 1.0.0
-      randexp: 0.4.6
-    dev: true
-
   /node-releases@2.0.10:
     resolution: {integrity: sha512-5GFldHPXVG/YZmFzJvKK2zDSzPKhEp0+ZR5SVaoSag9fsL5YgHbUHDfnG5494ISANDcK4KwPXAx2xqVEydmd7w==}
-    dev: true
-
-  /node-sql-parser@4.6.6:
-    resolution: {integrity: sha512-zpash5xnRY6+0C9HFru32iRJV1LTkwtrVpO90i385tYVF6efyXK/B3Nsq/15Fuv2utxrqHNjKtL55OHb8sl+eQ==}
-    engines: {node: '>=8'}
-    dependencies:
-      big-integer: 1.6.51
     dev: true
 
   /normalize-path@3.0.0:
@@ -2075,18 +2035,6 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-sql@0.13.0(prettier@2.8.7):
-    resolution: {integrity: sha512-Ui9603tDD6PFyr7JvIEoE6cIFMQnJVDriG+oLyVThsGo/MIl5ek18JhH3xtox9ux8jvyww/FUFrJzxpZ7FIdvw==}
-    engines: {node: ^12.20.0 || ^14.18.0 || >=16.0.0}
-    peerDependencies:
-      prettier: ^2.0.0
-    dependencies:
-      node-sql-parser: 4.6.6
-      prettier: 2.8.7
-      sql-formatter: 11.0.2
-      tslib: 2.5.0
-    dev: true
-
   /prettier-plugin-svelte@2.10.0(prettier@2.8.7)(svelte@3.58.0):
     resolution: {integrity: sha512-GXMY6t86thctyCvQq+jqElO+MKdB09BkL3hexyGP3Oi8XLKRFaJP1ud/xlWCZ9ZIa2BxHka32zhHfcuU+XsRQg==}
     peerDependencies:
@@ -2095,62 +2043,6 @@ packages:
     dependencies:
       prettier: 2.8.7
       svelte: 3.58.0
-    dev: true
-
-  /prettier-plugin-tailwindcss@0.2.7(prettier-plugin-svelte@2.10.0)(prettier@2.8.7):
-    resolution: {integrity: sha512-jQopIOgjLpX+y8HeD56XZw7onupRTC0cw7eKKUimI7vhjkPF5/1ltW5LyqaPtSyc8HvEpvNZsvvsGFa2qpa59w==}
-    engines: {node: '>=12.17.0'}
-    peerDependencies:
-      '@ianvs/prettier-plugin-sort-imports': '*'
-      '@prettier/plugin-php': '*'
-      '@prettier/plugin-pug': '*'
-      '@shopify/prettier-plugin-liquid': '*'
-      '@shufo/prettier-plugin-blade': '*'
-      '@trivago/prettier-plugin-sort-imports': '*'
-      prettier: '>=2.2.0'
-      prettier-plugin-astro: '*'
-      prettier-plugin-css-order: '*'
-      prettier-plugin-import-sort: '*'
-      prettier-plugin-jsdoc: '*'
-      prettier-plugin-organize-attributes: '*'
-      prettier-plugin-organize-imports: '*'
-      prettier-plugin-style-order: '*'
-      prettier-plugin-svelte: '*'
-      prettier-plugin-twig-melody: '*'
-    peerDependenciesMeta:
-      '@ianvs/prettier-plugin-sort-imports':
-        optional: true
-      '@prettier/plugin-php':
-        optional: true
-      '@prettier/plugin-pug':
-        optional: true
-      '@shopify/prettier-plugin-liquid':
-        optional: true
-      '@shufo/prettier-plugin-blade':
-        optional: true
-      '@trivago/prettier-plugin-sort-imports':
-        optional: true
-      prettier-plugin-astro:
-        optional: true
-      prettier-plugin-css-order:
-        optional: true
-      prettier-plugin-import-sort:
-        optional: true
-      prettier-plugin-jsdoc:
-        optional: true
-      prettier-plugin-organize-attributes:
-        optional: true
-      prettier-plugin-organize-imports:
-        optional: true
-      prettier-plugin-style-order:
-        optional: true
-      prettier-plugin-svelte:
-        optional: true
-      prettier-plugin-twig-melody:
-        optional: true
-    dependencies:
-      prettier: 2.8.7
-      prettier-plugin-svelte: 2.10.0(prettier@2.8.7)(svelte@3.58.0)
     dev: true
 
   /prettier@2.8.7:
@@ -2179,18 +2071,6 @@ packages:
   /quick-lru@5.1.1:
     resolution: {integrity: sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==}
     engines: {node: '>=10'}
-
-  /railroad-diagrams@1.0.0:
-    resolution: {integrity: sha512-cz93DjNeLY0idrCNOH6PviZGRN9GJhsdm9hpn1YCS879fj4W+x5IFJhhkRZcwVgMmFF7R82UA/7Oh+R8lLZg6A==}
-    dev: true
-
-  /randexp@0.4.6:
-    resolution: {integrity: sha512-80WNmd9DA0tmZrw9qQa62GPPWfuXJknrmVmLcxvq4uZBdYqb1wYoKTmnlGUchvVWe0XiLupYkBoXVOxz3C8DYQ==}
-    engines: {node: '>=0.12'}
-    dependencies:
-      discontinuous-range: 1.0.0
-      ret: 0.1.15
-    dev: true
 
   /read-cache@1.0.0:
     resolution: {integrity: sha512-Owdv/Ft7IjOgm/i0xvNDZ1LrRANRfew4b2prF3OWMQLxLfu3bS8FVhCsrSCMK4lR56Y9ya+AThoTpDCTxCmpRA==}
@@ -2229,11 +2109,6 @@ packages:
     dependencies:
       lowercase-keys: 3.0.0
     dev: false
-
-  /ret@0.1.15:
-    resolution: {integrity: sha512-TTlYpa+OL+vMMNG24xSlQGEJ3B/RzEfUlLct7b5G/ytav+wPrplCpVMFuwzXbkecJrb6IYo1iFb0S9v37754mg==}
-    engines: {node: '>=0.12'}
-    dev: true
 
   /reusify@1.0.4:
     resolution: {integrity: sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==}
@@ -2350,14 +2225,6 @@ packages:
   /source-map@0.6.1:
     resolution: {integrity: sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==}
     engines: {node: '>=0.10.0'}
-    dev: true
-
-  /sql-formatter@11.0.2:
-    resolution: {integrity: sha512-6QumAdGHEnI5dXEq1d0aBRP876AyA9Wp/UE7wopKNA2Mp9sKGRKVqGgoWHk4dr0J0nceesC85Y0p36qmGoNqhw==}
-    hasBin: true
-    dependencies:
-      argparse: 2.0.1
-      nearley: 2.20.1
     dev: true
 
   /streamsearch@1.1.0:

@@ -1,0 +1,3376 @@
+
+> tabs-manager@0.0.1 start /Users/spy4x/dev/my/tabs-manager
+> vite dev
+
+fetching URL https://pronomad.ru/blog/portugal-digital-nomad-visa/
+fetching: 1.032s
+parcing response: 3.929ms
+parcing HTML 60650
+{
+  og: {
+    site_name: 'Пароль от вайфая',
+    type: 'article',
+    title: 'Виза цифрового кочевника в Португалии 2023, условия ✈️ Digital Nomad Visa Portugal',
+    description: 'Иммиграция и новая жизнь для фрилансеров в Португалии. Как получить визу для цифровых кочевников? Какие документы понадобятся для получения Digital Nomad Visa?',
+    url: 'https://pronomad.ru/blog/portugal-digital-nomad-visa/',
+    image: 'https://pronomad.ru/content/images/2023/01/Untitled-design--1-.jpg',
+    'image:width': '2048',
+    'image:height': '1221'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Виза цифрового кочевника в Португалии 2023, условия ✈️ Digital Nomad Visa Portugal',
+    description: 'Иммиграция и новая жизнь для фрилансеров в Португалии. Как получить визу для цифровых кочевников? Какие документы понадобятся для получения Digital Nomad Visa?',
+    url: 'https://pronomad.ru/blog/portugal-digital-nomad-visa/',
+    image: 'https://pronomad.ru/content/images/2023/01/Untitled-design--1-.jpg',
+    label1: 'Written by',
+    data1: 'Артём',
+    label2: 'Filed under',
+    data2: '🍹Для номадов, 💚💖Португалия'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Пароль от вайфая',
+      url: 'https://pronomad.ru/',
+      logo: [Object]
+    },
+    author: {
+      '@type': 'Person',
+      name: 'Артём',
+      image: [Object],
+      url: 'https://pronomad.ru/author/artem/',
+      sameAs: [Array]
+    },
+    headline: 'Виза цифрового кочевника в Португалии 2023, условия ✈️ Digital Nomad Visa Portugal',
+    url: 'https://pronomad.ru/blog/portugal-digital-nomad-visa/',
+    datePublished: '2022-10-13T10:50:00.000Z',
+    dateModified: '2023-04-11T10:00:24.000Z',
+    image: {
+      '@type': 'ImageObject',
+      url: 'https://pronomad.ru/content/images/2023/01/Untitled-design--1-.jpg',
+      width: 2048,
+      height: 1221
+    },
+    keywords: '🍹Для номадов, 💚💖Португалия',
+    description: 'Что такое виза для цифровых кочевников в Португалию. Какие документы понадобятся и какие шаги нужно предпринять. Постараюсь осветить тут реальное положение дел без приукрашеств и привираний СМИ.\n' +
+      '\n' +
+      'Первыми про эту визу написали португальские госуслуги. Посольства Португалии некоторых стран также написали у себя на сайтах о появлении новых виз для цифровых кочевников. На сайте МИДа Португалии также появилась информация о визе.\n' +
+      '\n' +
+      '💡Получить ответы на свои вопросы по визе номада можно в чате цифровых ',
+    mainEntityOfPage: { '@type': 'WebPage', '@id': 'https://pronomad.ru/' }
+  }
+}
+fetching URL https://joyofcode.xyz/using-websockets-with-sveltekit
+fetching: 213.998ms
+parcing response: 2.553ms
+parcing HTML 80589
+{
+  og: {
+    title: 'Using WebSockets With SvelteKit',
+    image: 'https://social-share-images.vercel.app/Using%20WebSockets%20With%20SvelteKit.png',
+    url: 'https://joyofcode.xyz/',
+    description: 'Learn how to use a custom SvelteKit server for WebSockets.',
+    site_name: 'Joy Of Code'
+  },
+  twitter: {
+    creator: '@joyofcodedev',
+    card: 'summary_large_image',
+    title: 'Using WebSockets With SvelteKit',
+    description: 'Learn how to use a custom SvelteKit server for WebSockets.',
+    image: 'https://social-share-images.vercel.app/Using%20WebSockets%20With%20SvelteKit.png'
+  },
+  schema: {}
+}
+fetching URL https://medium.com/avmconsulting-blog/hosting-a-static-website-with-https-on-aws-using-s3-and-cloudfront-d32655fc0dab
+fetching: 348.788ms
+parcing response: 7.837ms
+parcing HTML 145155
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'Hosting a static website with HTTPS on AWS, using S3 and CloudFront',
+    description: 'Amazon’s AWS is a cheap and limitlessly ascendable platform which will be ideal for hosting quick, secure, and reliable static websites. I…',
+    url: 'https://medium.com/avmconsulting-blog/hosting-a-static-website-with-https-on-aws-using-s3-and-cloudfront-d32655fc0dab',
+    image: 'https://miro.medium.com/v2/resize:fit:800/0*5jalz9pr6mhgBz8r.png'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@AvmConsulting',
+    'app:url:iphone': 'medium://p/d32655fc0dab',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:800/0*5jalz9pr6mhgBz8r.png',
+    card: 'summary_large_image',
+    creator: '@vineetsharma61',
+    label1: 'Reading time',
+    data1: '4 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:800/0*5jalz9pr6mhgBz8r.png',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Kubernetes Advocate',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'May 20, 2021',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [
+      'https://miro.medium.com/v2/resize:fit:1200/0*5jalz9pr6mhgBz8r.png'
+    ],
+    url: 'https://medium.com/avmconsulting-blog/hosting-a-static-website-with-https-on-aws-using-s3-and-cloudfront-d32655fc0dab',
+    dateCreated: '2020-07-12T08:44:46.224Z',
+    datePublished: '2020-07-12T08:44:46.224Z',
+    dateModified: '2021-12-15T05:48:56.710Z',
+    headline: 'Hosting a static website with HTTPS on AWS, using S3 and CloudFront',
+    name: 'Hosting a static website with HTTPS on AWS, using S3 and CloudFront',
+    description: 'Amazon’s AWS is a cheap and limitlessly ascendable platform that will be ideal for hosting quick, secure, and reliable static websites. I host a lot of websites and its cheap to host a website using…',
+    identifier: 'd32655fc0dab',
+    author: {
+      '@type': 'Person',
+      name: 'Kubernetes Advocate',
+      url: 'https://kubernetes-advocate.medium.com'
+    },
+    creator: [ 'Kubernetes Advocate' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'AVM Consulting Blog',
+      url: 'https://medium.com/avmconsulting-blog',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://medium.com/avmconsulting-blog/hosting-a-static-website-with-https-on-aws-using-s3-and-cloudfront-d32655fc0dab'
+  }
+}
+fetching URL https://github.com/valueadd-poland/nestjs-packages
+fetching: 565.266ms
+parcing response: 23.141ms
+parcing HTML 202803
+{
+  og: {
+    image: 'https://opengraph.githubassets.com/5e818d0de36d3c6ac0981a4305497201557bd409a2ed14e318b987d28e2fd513/valueadd-poland/nestjs-packages',
+    'image:alt': 'Contribute to valueadd-poland/nestjs-packages development by creating an account on GitHub.',
+    'image:width': '1200',
+    'image:height': '600',
+    site_name: 'GitHub',
+    type: 'object',
+    title: 'GitHub - valueadd-poland/nestjs-packages',
+    url: 'https://github.com/valueadd-poland/nestjs-packages',
+    description: 'Contribute to valueadd-poland/nestjs-packages development by creating an account on GitHub.'
+  },
+  twitter: {
+    'image:src': 'https://opengraph.githubassets.com/5e818d0de36d3c6ac0981a4305497201557bd409a2ed14e318b987d28e2fd513/valueadd-poland/nestjs-packages',
+    site: '@github',
+    card: 'summary_large_image',
+    title: 'GitHub - valueadd-poland/nestjs-packages',
+    description: 'Contribute to valueadd-poland/nestjs-packages development by creating an account on GitHub.'
+  },
+  schema: {}
+}
+fetching URL https://cloud.google.com/run/docs/triggering/using-tasks
+fetching: 1.897s
+parcing response: 448.022ms
+parcing HTML 850012
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Como executar tarefas assíncronas  |  Documentação do Cloud Run  |  Google Cloud',
+    url: 'https://cloud.google.com/run/docs/triggering/using-tasks?hl=pt-br',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=pt-br',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'pt_br'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object], [Object] ]
+  }
+}
+fetching URL https://www.memomen.com/services
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://hamberg.no/gtd
+fetching: 1.835s
+parcing response: 2.78ms
+parcing HTML 33215
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://wowitaly.ru/rimskii-panteon-10-faktov/
+fetching: 3.672s
+parcing response: 203.195ms
+parcing HTML 191915
+{
+  og: {
+    locale: 'en_US',
+    type: 'website',
+    title: 'Римский Пантеон. 10 занимательных фактов +пошаговая инструкция, как посетить в 2022 году',
+    description: '',
+    url: 'https://wowitaly.ru/rimskii-panteon-10-faktov/',
+    site_name: 'WowItaly',
+    image: 'https://wowitaly.ru/wp-content/uploads/2018/01/пантеон-1-300x163.jpg',
+    'image:width': '384',
+    'image:height': '250'
+  },
+  twitter: {
+    card: 'summary',
+    creator: '@WOWItalyRU',
+    site: '@WOWItalyRU',
+    label1: 'Написано автором',
+    data1: 'Анна Струкова',
+    label2: 'Примерное время для чтения',
+    data2: '11 минут'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@graph': [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  }
+}
+fetching URL https://fireship.io/lessons/secret-manager-with-firebase/
+fetching: 26.691ms
+parcing response: 1.97ms
+parcing HTML 32274
+{
+  og: {
+    title: 'Google Secret Manager with Firebase',
+    type: 'article',
+    url: 'https://fireship.io/lessons/secret-manager-with-firebase/',
+    image: 'https://fireship.io/lessons/secret-manager-with-firebase/img/featured.png',
+    description: 'Use Secret Manager to handle sensitive data in Firebase Cloud Functions'
+  },
+  twitter: {
+    card: 'summary',
+    site: '@fireship_dev',
+    title: 'Google Secret Manager with Firebase',
+    description: 'Use Secret Manager to handle sensitive data in Firebase Cloud Functions',
+    image: 'https://fireship.io/lessons/secret-manager-with-firebase/img/featured.png'
+  },
+  schema: {}
+}
+fetching URL https://openapi-generator.tech/docs/generators/typescript-angular/
+fetching: 318.845ms
+parcing response: 2.794ms
+parcing HTML 32846
+{
+  og: {
+    image: 'https://openapi-generator.tech/img/docusaurus.png',
+    url: 'https://openapi-generator.tech/docs/generators/typescript-angular',
+    title: 'Documentation for the typescript-angular Generator | OpenAPI Generator',
+    description: 'METADATA'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    image: 'https://openapi-generator.tech/img/docusaurus.png'
+  },
+  schema: {}
+}
+fetching URL https://swagger.io/docs/
+fetching: 1.193s
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://docs.docker.com/compose/
+fetching: 74.98ms
+parcing response: 80.36ms
+parcing HTML 25381
+{
+  og: {
+    image: 'https://docs.docker.com/assets/images/docs@2x.png',
+    description: 'Learn how to use Docker Compose to define and run multi-container applications with this detailed introduction to the tool.',
+    title: 'Docker Compose overview',
+    type: 'website',
+    updated_time: '2023-04-07T15:34:38+00:00',
+    locale: 'en_US',
+    url: 'https://docs.docker.com/compose/',
+    site_name: 'Docker Documentation'
+  },
+  twitter: {
+    title: 'Docker Compose overview',
+    description: '',
+    card: 'summary_large_image',
+    domain: 'docs.docker.com',
+    site: '@docker_docs',
+    url: 'https://twitter.com/docker_docs',
+    'image:src': 'https://docs.docker.com/assets/images/docs@2x.png',
+    'image:alt': 'Docker Documentation'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    headline: 'Docker Compose overview',
+    description: 'Learn how to use Docker Compose to define and run multi-container applications with this detailed introduction to the tool.',
+    url: 'https://docs.docker.com/compose/'
+  }
+}
+fetching URL https://www.prisma.io/dataguide/datamodeling/functional-units
+fetching: 58.82ms
+parcing response: 6.499ms
+parcing HTML 171487
+{
+  og: {
+    url: 'https://www.prisma.io/dataguide/datamodeling/functional-units',
+    title: 'Functional Units: Functions vs Procedures, Workflows, and More',
+    description: 'Databases are, by definition, very good at processing and manipulating information. Learn more about functional units, workflows, and more.',
+    site_name: "Prisma's Data Guide",
+    type: 'website',
+    image: 'https://www.prisma.io/dataguide/social/docs-social.png',
+    'image:alt': "Prisma's Data Guide",
+    'image:type': 'image/png',
+    'image:width': '1200',
+    'image:height': '630'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@prisma',
+    title: 'Functional Units: Functions vs Procedures, Workflows, and More',
+    description: 'Databases are, by definition, very good at processing and manipulating information. Learn more about functional units, workflows, and more.',
+    creator: '@prisma',
+    image: 'https://www.prisma.io/dataguide/social/docs-social.png'
+  },
+  schema: {}
+}
+fetching URL https://cloud.google.com/sql/docs/postgres/using-query-insights
+fetching: 626.01ms
+parcing response: 461.011ms
+parcing HTML 849942
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Use Query insights to improve query performance  |  Cloud SQL for PostgreSQL  |  Google Cloud',
+    url: 'https://cloud.google.com/sql/docs/postgres/using-query-insights',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object], [Object], [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=HjLnY0aPQZo&t=1s
+fetching: 65.314ms
+parcing response: 829.012ms
+parcing HTML 695704
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=HjLnY0aPQZo',
+    title: 'Топ ошибок со стороны разработки при работе с PostgreSQL / Алексей Лесовский (Data Egret)',
+    image: 'https://i.ytimg.com/vi/HjLnY0aPQZo/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'HighLoad++ Moscow 2018Тезисы и презентация:http://www.highload.ru/moscow/2018/abstracts/4018Фантазии девелопера, или Ночной кошмар DBA.Я и мои коллеги из Dat...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/HjLnY0aPQZo?start=1',
+    'video:secure_url': 'https://www.youtube.com/embed/HjLnY0aPQZo?start=1',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'Базы данных и системы хранения'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=HjLnY0aPQZo',
+    title: 'Топ ошибок со стороны разработки при работе с PostgreSQL / Алексей Лесовский (Data Egret)',
+    description: 'HighLoad++ Moscow 2018Тезисы и презентация:http://www.highload.ru/moscow/2018/abstracts/4018Фантазии девелопера, или Ночной кошмар DBA.Я и мои коллеги из Dat...',
+    image: 'https://i.ytimg.com/vi/HjLnY0aPQZo/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=HjLnY0aPQZo&t=1s&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=HjLnY0aPQZo&t=1s&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=HjLnY0aPQZo',
+    player: 'https://www.youtube.com/embed/HjLnY0aPQZo?start=1',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=dm_oid1HVfQ
+fetching: 38.138ms
+parcing response: 357.738ms
+parcing HTML 661787
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=dm_oid1HVfQ',
+    title: 'PostgreSQL: практические примеры оптимизации SQL-запросов /  Иван Фролков (Postgres Professional)',
+    image: 'https://i.ytimg.com/vi/dm_oid1HVfQ/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Презентация и тезисы:http://www.highload.ru/2016/abstracts/2306.htmlДовольно часто как адинистраторы, так и разработчики жалуются на низкую производительност...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/dm_oid1HVfQ',
+    'video:secure_url': 'https://www.youtube.com/embed/dm_oid1HVfQ',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'highload++'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=dm_oid1HVfQ',
+    title: 'PostgreSQL: практические примеры оптимизации SQL-запросов /  Иван Фролков (Postgres Professional)',
+    description: 'Презентация и тезисы:http://www.highload.ru/2016/abstracts/2306.htmlДовольно часто как адинистраторы, так и разработчики жалуются на низкую производительност...',
+    image: 'https://i.ytimg.com/vi/dm_oid1HVfQ/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=dm_oid1HVfQ&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=dm_oid1HVfQ&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=dm_oid1HVfQ',
+    player: 'https://www.youtube.com/embed/dm_oid1HVfQ',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=HxwLCyCY8ec&t=1s
+fetching: 41.021ms
+parcing response: 558.959ms
+parcing HTML 663509
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=HxwLCyCY8ec',
+    title: 'PostgreSQL worst practices / Илья Космодемьянский (Data Egret)',
+    image: 'https://i.ytimg.com/vi/HxwLCyCY8ec/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'HighLoad++ 2017Тезисы:http://www.highload.ru/2017/abstracts/3111.htmlThis talk is prepared as a bunch of slides, where each slide describes a really bad way ...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/HxwLCyCY8ec?start=1',
+    'video:secure_url': 'https://www.youtube.com/embed/HxwLCyCY8ec?start=1',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'PostgreSQL'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=HxwLCyCY8ec',
+    title: 'PostgreSQL worst practices / Илья Космодемьянский (Data Egret)',
+    description: 'HighLoad++ 2017Тезисы:http://www.highload.ru/2017/abstracts/3111.htmlThis talk is prepared as a bunch of slides, where each slide describes a really bad way ...',
+    image: 'https://i.ytimg.com/vi/HxwLCyCY8ec/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=HxwLCyCY8ec&t=1s&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=HxwLCyCY8ec&t=1s&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=HxwLCyCY8ec',
+    player: 'https://www.youtube.com/embed/HxwLCyCY8ec?start=1',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=g3KXa870be0
+fetching: 55.153ms
+parcing response: 300.699ms
+parcing HTML 710892
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=g3KXa870be0',
+    title: 'Firebase Auth Emulator Crash Course — Firebase Fridays',
+    image: 'https://i.ytimg.com/vi/g3KXa870be0/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: '',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/g3KXa870be0',
+    'video:secure_url': 'https://www.youtube.com/embed/g3KXa870be0',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=g3KXa870be0',
+    title: 'Firebase Auth Emulator Crash Course — Firebase Fridays',
+    description: '',
+    image: 'https://i.ytimg.com/vi/g3KXa870be0/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=g3KXa870be0&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=g3KXa870be0&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=g3KXa870be0',
+    player: 'https://www.youtube.com/embed/g3KXa870be0',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=j9JHJNklWN8
+fetching: 39.675ms
+parcing response: 531.226ms
+parcing HTML 693976
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=j9JHJNklWN8',
+    title: 'Секреты лучших! "Путь выдающихся людей".  Обзор книги',
+    image: 'https://i.ytimg.com/vi/j9JHJNklWN8/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Опираясь на собранные за 20 лет данные исследований институт Высокой результативности собрал 6 важных привычек, которые отличают обычных людей от выдающихся....',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/j9JHJNklWN8',
+    'video:secure_url': 'https://www.youtube.com/embed/j9JHJNklWN8',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'привычки'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=j9JHJNklWN8',
+    title: 'Секреты лучших! "Путь выдающихся людей".  Обзор книги',
+    description: 'Опираясь на собранные за 20 лет данные исследований институт Высокой результативности собрал 6 важных привычек, которые отличают обычных людей от выдающихся....',
+    image: 'https://i.ytimg.com/vi/j9JHJNklWN8/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=j9JHJNklWN8&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=j9JHJNklWN8&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=j9JHJNklWN8',
+    player: 'https://www.youtube.com/embed/j9JHJNklWN8',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://github.com/isaacplmann/ngx-tour
+fetching: 619.432ms
+parcing response: 28.163ms
+parcing HTML 204772
+{
+  og: {
+    image: 'https://opengraph.githubassets.com/270e4005dd71a40de66a01dbd7fb7fb0e2197ec07a17104c50bbd849b3f1f8f8/isaacplmann/ngx-tour',
+    'image:alt': 'Product Tour Built in Angular. Contribute to isaacplmann/ngx-tour development by creating an account on GitHub.',
+    'image:width': '1200',
+    'image:height': '600',
+    site_name: 'GitHub',
+    type: 'object',
+    title: 'GitHub - isaacplmann/ngx-tour: Product Tour Built in Angular',
+    url: 'https://github.com/isaacplmann/ngx-tour',
+    description: 'Product Tour Built in Angular. Contribute to isaacplmann/ngx-tour development by creating an account on GitHub.'
+  },
+  twitter: {
+    'image:src': 'https://opengraph.githubassets.com/270e4005dd71a40de66a01dbd7fb7fb0e2197ec07a17104c50bbd849b3f1f8f8/isaacplmann/ngx-tour',
+    site: '@github',
+    card: 'summary_large_image',
+    title: 'GitHub - isaacplmann/ngx-tour: Product Tour Built in Angular',
+    description: 'Product Tour Built in Angular. Contribute to isaacplmann/ngx-tour development by creating an account on GitHub.'
+  },
+  schema: {}
+}
+fetching URL https://medium.com/angular-in-depth/chrome-extension-with-angular-why-and-how-778200b87575
+fetching: 387.387ms
+parcing response: 14.412ms
+parcing HTML 292675
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'Chrome extension with Angular — from zero to a little hero',
+    description: 'or a short how-to and why-in-the-world',
+    url: 'https://medium.com/angular-in-depth/chrome-extension-with-angular-why-and-how-778200b87575',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/1*yPzpouKBY1mORRbnnUSviA.png'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@AngularInDepth',
+    'app:url:iphone': 'medium://p/778200b87575',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/1*yPzpouKBY1mORRbnnUSviA.png',
+    card: 'summary_large_image',
+    creator: '@_Just_JeB_',
+    label1: 'Reading time',
+    data1: '13 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/1*yPzpouKBY1mORRbnnUSviA.png',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'JeB Barabanov',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Jul 3, 2022',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [
+      'https://miro.medium.com/v2/resize:fit:1200/1*yPzpouKBY1mORRbnnUSviA.png'
+    ],
+    url: 'https://medium.com/angular-in-depth/chrome-extension-with-angular-why-and-how-778200b87575',
+    dateCreated: '2019-09-16T12:51:07.962Z',
+    datePublished: '2019-09-16T12:51:07.962Z',
+    dateModified: '2022-07-03T07:41:50.636Z',
+    headline: 'Chrome extension with Angular — from zero to a little hero',
+    name: 'Chrome extension with Angular — from zero to a little hero',
+    description: "In this article we're going to review Chrome Extensions architecture and learn how to incorporate Angular into it.",
+    identifier: '778200b87575',
+    author: {
+      '@type': 'Person',
+      name: 'JeB Barabanov',
+      url: 'https://justjeb.medium.com'
+    },
+    creator: [ 'JeB Barabanov' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'Angular In Depth',
+      url: 'https://medium.com/angular-in-depth',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://medium.com/angular-in-depth/chrome-extension-with-angular-why-and-how-778200b87575'
+  }
+}
+fetching URL https://developer.chrome.com/extensions/manifest
+fetching: 768.83ms
+parcing response: 9.413ms
+parcing HTML 129123
+{
+  og: {
+    site_name: 'Chrome Developers',
+    title: 'Manifest file format - Chrome Developers',
+    type: 'website',
+    url: 'https://developer.chrome.com/docs/extensions/mv3/manifest/',
+    image: 'https://wd.imgix.net/image/fuiz5I8Iv7bV8YbrK2PKiY3Vask2/iGPiWTtoy7iF932Xday1.png?auto=format&w=1521',
+    description: 'An overview of the manifest.json properties of a Chrome Extension.'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    image: 'https://wd.imgix.net/image/fuiz5I8Iv7bV8YbrK2PKiY3Vask2/iGPiWTtoy7iF932Xday1.png?auto=format&w=1521',
+    description: 'An overview of the manifest.json properties of a Chrome Extension.'
+  },
+  schema: {}
+}
+fetching URL https://blog.inkdrop.info/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820
+fetching: 1.623s
+parcing response: 13.632ms
+parcing HTML 186435
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo',
+    description: 'You Don’t Have To Get Covered on Large Blogs, Why Churn Rate is Surprisingly Low, Spend a Lot of Time At User Forum, etc..',
+    url: 'https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/1*iK95ABuUpmXjOdWSmEWk_g.jpeg'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@inkdrop_app',
+    'app:url:iphone': 'medium://p/7a5b94b8e820',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/1*iK95ABuUpmXjOdWSmEWk_g.jpeg',
+    card: 'summary_large_image',
+    creator: '@inkdrop_app',
+    label1: 'Reading time',
+    data1: '8 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/1*iK95ABuUpmXjOdWSmEWk_g.jpeg',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Takuya Matsuyama',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Feb 16, 2023',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [
+      'https://miro.medium.com/v2/resize:fit:1200/1*iK95ABuUpmXjOdWSmEWk_g.jpeg'
+    ],
+    url: 'https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820',
+    dateCreated: '2018-10-14T23:31:38.312Z',
+    datePublished: '2018-10-14T23:31:38.312Z',
+    dateModified: '2023-02-16T04:47:38.075Z',
+    headline: 'How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo',
+    name: 'How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo',
+    description: 'Hello, it’s Takuya here. This is a story about my experience on my solo product called Inkdrop — a Markdown note-taking app with built-in cloud sync. It is a SaaS that earns $3,200 per month from 600…',
+    identifier: '7a5b94b8e820',
+    author: {
+      '@type': 'Person',
+      name: 'Takuya Matsuyama',
+      url: 'https://blog.inkdrop.app/@inkdrop'
+    },
+    creator: [ 'Takuya Matsuyama' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'Dev as Life',
+      url: 'blog.inkdrop.app',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://blog.inkdrop.app/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820'
+  }
+}
+fetching URL https://youtube.com/watch?v=uYv1sQSMvY0
+fetching: 128.071ms
+parcing response: 340.505ms
+parcing HTML 720450
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=uYv1sQSMvY0',
+    title: 'You Have To Start Talking',
+    image: 'https://i.ytimg.com/vi/uYv1sQSMvY0/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: "This video comes from a 2018 keynote Gary did in Auckland, NZ. Watch the full keynote of Gary's main channel here: https://youtu.be/sr2fSEgSGZYThe way to hav...",
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/uYv1sQSMvY0',
+    'video:secure_url': 'https://www.youtube.com/embed/uYv1sQSMvY0',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'garyvee start talking'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=uYv1sQSMvY0',
+    title: 'You Have To Start Talking',
+    description: "This video comes from a 2018 keynote Gary did in Auckland, NZ. Watch the full keynote of Gary's main channel here: https://youtu.be/sr2fSEgSGZYThe way to hav...",
+    image: 'https://i.ytimg.com/vi/uYv1sQSMvY0/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=uYv1sQSMvY0&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=uYv1sQSMvY0&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=uYv1sQSMvY0',
+    player: 'https://www.youtube.com/embed/uYv1sQSMvY0',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all
+fetching: 233.295ms
+parcing response: 160.381ms
+parcing HTML 58486
+{
+  og: {
+    title: "The Amazon Builders' Library",
+    type: 'company',
+    url: 'https://aws.amazon.com/builders-library/',
+    image: 'https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png',
+    site_name: 'Amazon Web Services, Inc.'
+  },
+  twitter: {},
+  schema: {}
+}
+fetching URL https://pronomad.ru/blog/how-we-got-portuguese-residency/
+fetching: 976.429ms
+parcing response: 3.015ms
+parcing HTML 103127
+{
+  og: {
+    site_name: 'Пароль от вайфая',
+    type: 'article',
+    title: 'Как получить ВНЖ в Португалии на основании удаленной работы ✈️ Особенности и условия получения',
+    description: 'В этом лонгриде рассказываю как мы получили ВНЖ Португалии на основании удаленной работы. Какие шаги мы предприняли и какие документы собрали для переезда.',
+    url: 'https://pronomad.ru/blog/how-we-got-portuguese-residency/',
+    image: 'https://pronomad.ru/content/images/2022/06/how-we-got-portuguese-residency.jpg',
+    'image:width': '1400',
+    'image:height': '1047'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Как получить ВНЖ в Португалии на основании удаленной работы ✈️ Особенности и условия получения',
+    description: 'В этом лонгриде рассказываю как мы получили ВНЖ Португалии на основании удаленной работы. Какие шаги мы предприняли и какие документы собрали для переезда.',
+    url: 'https://pronomad.ru/blog/how-we-got-portuguese-residency/',
+    image: 'https://pronomad.ru/content/images/2022/06/how-we-got-portuguese-residency.jpg',
+    label1: 'Written by',
+    data1: 'Артём',
+    label2: 'Filed under',
+    data2: '💚💖Португалия, 🧳Миграция, 🤙Личный опыт'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Пароль от вайфая',
+      url: 'https://pronomad.ru/',
+      logo: [Object]
+    },
+    author: {
+      '@type': 'Person',
+      name: 'Артём',
+      image: [Object],
+      url: 'https://pronomad.ru/author/artem/',
+      sameAs: [Array]
+    },
+    headline: 'Как получить ВНЖ в Португалии на основании удаленной работы ✈️ Особенности и условия получения',
+    url: 'https://pronomad.ru/blog/how-we-got-portuguese-residency/',
+    datePublished: '2021-11-08T00:00:00.000Z',
+    dateModified: '2023-03-09T20:34:14.000Z',
+    image: {
+      '@type': 'ImageObject',
+      url: 'https://pronomad.ru/content/images/2022/06/how-we-got-portuguese-residency.jpg',
+      width: 1400,
+      height: 1047
+    },
+    keywords: '💚💖Португалия, 🧳Миграция, 🤙Личный опыт',
+    description: 'В этом лонгриде хочу рассказать нашу историю получения статуса резидентов Португалии на основании удаленной работы через самозанятость (статья 89.2). Сразу хочу предупредить, что данная статья лишь описывает личный опыт и не является пошаговым планом действия, так как очень многое зависит от человеческого фактора, местоположения, времени года, волны коронавируса, положения звёзд и еще кто-знает-каких условий. Однако здесь будут описаны шаги, которые сработали в нашем случае и в итоге привели к п',
+    mainEntityOfPage: { '@type': 'WebPage', '@id': 'https://pronomad.ru/' }
+  }
+}
+fetching URL https://everycircuit.com/
+fetching: 1.073s
+parcing response: 7.359ms
+parcing HTML 25771
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://library.io/
+fetching: 400.624ms
+parcing response: 0.466ms
+parcing HTML 16969
+{
+  og: {
+    title: 'library.io',
+    image: 'https://assets.library.io/assets-63/assets/banner-home.png'
+  },
+  twitter: {},
+  schema: {}
+}
+fetching URL http://falstad.com/circuit/
+fetching: 440.675ms
+parcing response: 1.215ms
+parcing HTML 2858
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://pikabu.ru/story/uroki_arduino_kak_napisat_mnogozadachnuyu_programmu_kostyili_taymeryi_os_8670735
+fetching: 844.822ms
+parcing response: 335.159ms
+parcing HTML 304740
+{
+  og: {
+    type: 'article',
+    title: '����� Arduino. ��� �������� ������������� ���������. �������, �������, OS',
+    url: 'https://pikabu.ru/story/uroki_arduino_kak_napisat_mnogozadachnuyu_programmu_kostyili_taymeryi_os_8670735',
+    image: 'https://cs12.pikabu.ru/video/2021/12/07/6/og_og_1638869844359332411.jpg',
+    site_name: '������',
+    description: '� ���� ����� ������� ��������� ������� �����������, �� ���� ������� ����� �������� ������ ����� ��������� (� ������ ����������������� ������� �� :) 01:06 - �������� � delay. 01:42 - ����������� ����� �����: AlexGyver'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@pikabu_vk',
+    title: '����� Arduino. ��� �������� ������������� ���������. �������, �������, OS',
+    url: 'https://pikabu.ru/story/uroki_arduino_kak_napisat_mnogozadachnuyu_programmu_kostyili_taymeryi_os_8670735',
+    domain: 'pikabu.ru',
+    description: '� ���� ����� ������� ��������� ������� �����������, �� ���� ������� ����� �������� ������ ����� ��������� (� ������ ����������������� ������� �� :) 01:06 - �������� � delay. 01:42 - ����������� ����� �����: AlexGyver',
+    image: 'https://cs12.pikabu.ru/video/2021/12/07/6/og_og_1638869844359332411.jpg'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'Article',
+    name: 'Таролог? Астролог? Круче, встречайте-родолог',
+    url: 'https://pikabu.ru/story/tarolog_astrolog_kruche_vstrechayterodolog_10129949',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': 'https://pikabu.ru/story/tarolog_astrolog_kruche_vstrechayterodolog_10129949'
+    },
+    headline: 'Таролог? Астролог? Круче, встречайте-родолог',
+    image: [ [Object], [Object] ],
+    dateCreated: '2023-04-11T02:28:19+03:00',
+    datePublished: '2023-04-11T02:28:19+03:00',
+    dateModified: '2023-04-11T02:30:09+03:00',
+    author: {
+      '@type': 'Person',
+      url: 'https://pikabu.ru/@elkin1988',
+      name: 'elkin1988'
+    },
+    description: '',
+    publisher: { '@type': 'Organization', name: 'Пикабу', logo: [Object] }
+  }
+}
+fetching URL https://cloud.google.com/blog/topics/developers-practitioners/use-cloud-run-always-cpu-allocation-background-work
+fetching: 129.724ms
+parcing response: 347.376ms
+parcing HTML 166672
+{
+  og: {
+    title: 'Use Cloud Run "always-on" CPU allocation for background work | Google Cloud Blog',
+    type: 'website',
+    url: 'https://cloud.google.com/blog/topics/developers-practitioners/use-cloud-run-always-cpu-allocation-background-work',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_YeYyFgz.max-2000x2000.png',
+    site_name: 'Google Cloud Blog'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    url: 'https://cloud.google.com/blog/topics/developers-practitioners/use-cloud-run-always-cpu-allocation-background-work',
+    title: 'Use Cloud Run "always-on" CPU allocation for background work | Google Cloud Blog',
+    description: '',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_YeYyFgz.max-2000x2000.png',
+    site: '@googlecloud'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: 'Use Cloud Run "always-on" CPU allocation for background work',
+    description: '',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/image5_YeYyFgz.max-2000x2000.png',
+    author: [ [Object] ],
+    datePublished: '2022-03-28',
+    publisher: { '@type': 'Organization', name: 'Google Cloud', logo: [Object] }
+  }
+}
+fetching URL https://twitter.com/mywifequit/status/1534879741152575488
+fetching: 244.732ms
+parcing response: 332.47ms
+parcing HTML 169413
+{ og: { site_name: 'Twitter' }, twitter: {}, schema: {} }
+fetching URL https://youtu.be/N6-Q2dgodLs
+fetching: 1.257s
+parcing response: 354.692ms
+parcing HTML 753853
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=N6-Q2dgodLs',
+    title: 'How I Make Videos for Programmers (on Fireship.io)',
+    image: 'https://i.ytimg.com/vi/N6-Q2dgodLs/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'I am often asked how I create programming tutorials on YouTube for fireship.io. Learn about my video production hardware, software, and workflow - plus other...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/N6-Q2dgodLs',
+    'video:secure_url': 'https://www.youtube.com/embed/N6-Q2dgodLs',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'code tutorial'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=N6-Q2dgodLs',
+    title: 'How I Make Videos for Programmers (on Fireship.io)',
+    description: 'I am often asked how I create programming tutorials on YouTube for fireship.io. Learn about my video production hardware, software, and workflow - plus other...',
+    image: 'https://i.ytimg.com/vi/N6-Q2dgodLs/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=N6-Q2dgodLs&feature=youtu.be&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=N6-Q2dgodLs&feature=youtu.be&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=N6-Q2dgodLs',
+    player: 'https://www.youtube.com/embed/N6-Q2dgodLs',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://fireship.io/lessons/firebase-emulator-advanced/
+fetching: 56.695ms
+parcing response: 1.003ms
+parcing HTML 52367
+{
+  og: {
+    title: 'Firebase Emulator Advanced Usage Guide',
+    type: 'article',
+    url: 'https://fireship.io/lessons/firebase-emulator-advanced/',
+    image: 'https://fireship.io/lessons/firebase-emulator-advanced/img/featured.png',
+    description: 'Advanced techniques for generating mock data and testing with the Firebase emulator suite'
+  },
+  twitter: {
+    card: 'summary',
+    site: '@fireship_dev',
+    title: 'Firebase Emulator Advanced Usage Guide',
+    description: 'Advanced techniques for generating mock data and testing with the Firebase emulator suite',
+    image: 'https://fireship.io/lessons/firebase-emulator-advanced/img/featured.png'
+  },
+  schema: {}
+}
+fetching URL https://fireship.io/lessons/docker-basics-tutorial-nodejs/
+fetching: 11.642ms
+parcing response: 0.666ms
+parcing HTML 41258
+{
+  og: {
+    title: 'Docker Basics Tutorial with Node.js',
+    type: 'article',
+    url: 'https://fireship.io/lessons/docker-basics-tutorial-nodejs/',
+    image: 'https://fireship.io/lessons/docker-basics-tutorial-nodejs/img/featured.png',
+    description: 'Learn the fundamentals of Docker by containerizing a Node.js app'
+  },
+  twitter: {
+    card: 'summary',
+    site: '@fireship_dev',
+    title: 'Docker Basics Tutorial with Node.js',
+    description: 'Learn the fundamentals of Docker by containerizing a Node.js app',
+    image: 'https://fireship.io/lessons/docker-basics-tutorial-nodejs/img/featured.png'
+  },
+  schema: {}
+}
+fetching URL https://github.com/nartc/mapper
+fetching: 824.844ms
+parcing response: 42.224ms
+parcing HTML 268761
+{
+  og: {
+    image: 'https://opengraph.githubassets.com/21ff8595934c80e3d8b43de688c6c12f1778aff75bfc5e8f81d45d5bf2ab0d96/nartc/mapper',
+    'image:alt': '🔥 An Object-Object AutoMapper for TypeScript 🔥. Contribute to nartc/mapper development by creating an account on GitHub.',
+    'image:width': '1200',
+    'image:height': '600',
+    site_name: 'GitHub',
+    type: 'object',
+    title: 'GitHub - nartc/mapper: 🔥 An Object-Object AutoMapper for TypeScript 🔥',
+    url: 'https://github.com/nartc/mapper',
+    description: '🔥 An Object-Object AutoMapper for TypeScript 🔥. Contribute to nartc/mapper development by creating an account on GitHub.'
+  },
+  twitter: {
+    'image:src': 'https://opengraph.githubassets.com/21ff8595934c80e3d8b43de688c6c12f1778aff75bfc5e8f81d45d5bf2ab0d96/nartc/mapper',
+    site: '@github',
+    card: 'summary_large_image',
+    title: 'GitHub - nartc/mapper: 🔥 An Object-Object AutoMapper for TypeScript 🔥',
+    description: '🔥 An Object-Object AutoMapper for TypeScript 🔥. Contribute to nartc/mapper development by creating an account on GitHub.'
+  },
+  schema: {}
+}
+fetching URL https://www.youtube.com/watch?v=e8-hBYw5bx0
+fetching: 53.62ms
+parcing response: 483.097ms
+parcing HTML 687129
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=e8-hBYw5bx0',
+    title: 'Micro-Frontends with Module Federation using Angular and Nx',
+    image: 'https://i.ytimg.com/vi/e8-hBYw5bx0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBEgaihyMA8=&rs=AOn4CLCMIudKITWDrmP3yzBEeKB0dnEk4A',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Building on top of the work down by Manfred Steyer and community, we have updated our Nx Angular plugins executors and generators to better support this use ...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/e8-hBYw5bx0',
+    'video:secure_url': 'https://www.youtube.com/embed/e8-hBYw5bx0',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=e8-hBYw5bx0',
+    title: 'Micro-Frontends with Module Federation using Angular and Nx',
+    description: 'Building on top of the work down by Manfred Steyer and community, we have updated our Nx Angular plugins executors and generators to better support this use ...',
+    image: 'https://i.ytimg.com/vi/e8-hBYw5bx0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBEgaihyMA8=&rs=AOn4CLCMIudKITWDrmP3yzBEeKB0dnEk4A',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=e8-hBYw5bx0&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=e8-hBYw5bx0&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=e8-hBYw5bx0',
+    player: 'https://www.youtube.com/embed/e8-hBYw5bx0',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://nx.dev/l/a/guides/nx-daemon
+fetching: 218.688ms
+parcing response: 2.157ms
+parcing HTML 87481
+{
+  og: {
+    description: 'Next generation build system with first class monorepo support and powerful integrations.',
+    title: 'Nx Daemon',
+    url: 'https://nx.dev/more-concepts/nx-daemon',
+    type: 'website',
+    image: 'https://nx.dev/images/open-graph/more-concepts-nx-daemon.jpg',
+    'image:alt': 'Nx: Smart, Fast and Extensible Build System',
+    'image:type': 'image/jpeg',
+    'image:width': '1600',
+    'image:height': '800',
+    site_name: 'Nx'
+  },
+  twitter: { card: 'summary_large_image', site: '@nxdevtools' },
+  schema: {}
+}
+fetching URL https://www.upwork.com/resources/how-to-become-a-solopreneur?utm_source=responsys&utm_medium=email&utm_campaign=202109_AH_FL_NL_EM6
+fetching: 77.774ms
+parcing response: 1.887ms
+parcing HTML 7777
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://chromeos.dev/en/publish/pwa-in-play
+fetching: 36.498ms
+parcing response: 2.076ms
+parcing HTML 43592
+{
+  og: {
+    locale: 'en',
+    site_name: 'chromeOS.dev',
+    url: 'https://chromeos.dev/en/publish/pwa-in-play/',
+    type: 'article',
+    'article:published_time': 'Fri May 14 2021 00:00:00 GMT+0000 (Coordinated Universal Time)',
+    'article:section': 'publish',
+    'article:tag': 'publishing',
+    title: 'List your Progressive Web App in Google Play',
+    description: 'How to publish and distribute your Progressive Web App through Google Play.',
+    image: 'https://chromeos-dev.imgix.net/icons/social-2022.png?auto=format,compress',
+    'image:alt': 'chromeOS.dev'
+  },
+  twitter: {},
+  schema: {}
+}
+fetching URL https://www.youtube.com/watch?v=HubezKbFL7E&t=2s
+fetching: 43.511ms
+parcing response: 450.874ms
+parcing HTML 854610
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=HubezKbFL7E',
+    title: 'Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski',
+    image: 'https://i.ytimg.com/vi/HubezKbFL7E/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Europe’s Leading Laravel Conference https://laracon.eu',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/HubezKbFL7E?start=2',
+    'video:secure_url': 'https://www.youtube.com/embed/HubezKbFL7E?start=2',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'amsterdam'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=HubezKbFL7E',
+    title: 'Things every developer absolutely, positively needs to know about database indexing - Kai Sassnowski',
+    description: 'Europe’s Leading Laravel Conference https://laracon.eu',
+    image: 'https://i.ytimg.com/vi/HubezKbFL7E/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=HubezKbFL7E&t=2s&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=HubezKbFL7E&t=2s&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=HubezKbFL7E',
+    player: 'https://www.youtube.com/embed/HubezKbFL7E?start=2',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=5M2FFbVeLSs&t=266s
+fetching: 39.03ms
+parcing response: 375.568ms
+parcing HTML 921112
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=5M2FFbVeLSs',
+    title: 'PostgreSQL performance in 5 minutes',
+    image: 'https://i.ytimg.com/vi/5M2FFbVeLSs/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Hans-Jürgen SchönigPostgresConf South Africa 2019https://postgresconf.org/conferences/SouthAfrica2019/program/proposals/postgresql-performance-in-5-minutesAr...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/5M2FFbVeLSs?start=266',
+    'video:secure_url': 'https://www.youtube.com/embed/5M2FFbVeLSs?start=266',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=5M2FFbVeLSs',
+    title: 'PostgreSQL performance in 5 minutes',
+    description: 'Hans-Jürgen SchönigPostgresConf South Africa 2019https://postgresconf.org/conferences/SouthAfrica2019/program/proposals/postgresql-performance-in-5-minutesAr...',
+    image: 'https://i.ytimg.com/vi/5M2FFbVeLSs/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=5M2FFbVeLSs&t=266s&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=5M2FFbVeLSs&t=266s&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=5M2FFbVeLSs',
+    player: 'https://www.youtube.com/embed/5M2FFbVeLSs?start=266',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=BY-vMrMgWe0
+fetching: 45.103ms
+parcing response: 428.901ms
+parcing HTML 653567
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=BY-vMrMgWe0',
+    title: 'Когда стоит создавать индекс?',
+    image: 'https://i.ytimg.com/vi/BY-vMrMgWe0/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Многие слышали про индексы в базах данных, но обсуждение по поводу когда стоит создавать эти индексы встречается в просторах интернета не так уж и часто.Этот...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/BY-vMrMgWe0',
+    'video:secure_url': 'https://www.youtube.com/embed/BY-vMrMgWe0',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=BY-vMrMgWe0',
+    title: 'Когда стоит создавать индекс?',
+    description: 'Многие слышали про индексы в базах данных, но обсуждение по поводу когда стоит создавать эти индексы встречается в просторах интернета не так уж и часто.Этот...',
+    image: 'https://i.ytimg.com/vi/BY-vMrMgWe0/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=BY-vMrMgWe0&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=BY-vMrMgWe0&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=BY-vMrMgWe0',
+    player: 'https://www.youtube.com/embed/BY-vMrMgWe0',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=szfUbzsKvtE
+fetching: 43.623ms
+parcing response: 345.739ms
+parcing HTML 798327
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=szfUbzsKvtE',
+    title: 'Full Text Search PostgreSQL',
+    image: 'https://i.ytimg.com/vi/szfUbzsKvtE/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Learn how to implement full text search in PostgreSQL.Code: https://github.com/benawad/postgres-full-text-searchLinks from video:https://www.postgresql.org/d...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/szfUbzsKvtE',
+    'video:secure_url': 'https://www.youtube.com/embed/szfUbzsKvtE',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'Full Text Search PostgreSQL'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=szfUbzsKvtE',
+    title: 'Full Text Search PostgreSQL',
+    description: 'Learn how to implement full text search in PostgreSQL.Code: https://github.com/benawad/postgres-full-text-searchLinks from video:https://www.postgresql.org/d...',
+    image: 'https://i.ytimg.com/vi/szfUbzsKvtE/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=szfUbzsKvtE&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=szfUbzsKvtE&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=szfUbzsKvtE',
+    player: 'https://www.youtube.com/embed/szfUbzsKvtE',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=NI9wYuVIYcA
+fetching: 86.654ms
+parcing response: 435.176ms
+parcing HTML 718936
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=NI9wYuVIYcA',
+    title: 'B-Tree Indexes',
+    image: 'https://i.ytimg.com/vi/NI9wYuVIYcA/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: "In this video, I'd like to take a look at B-tree indexes and show how knowing them can help design better database tables and queries.",
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/NI9wYuVIYcA',
+    'video:secure_url': 'https://www.youtube.com/embed/NI9wYuVIYcA',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'tree'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=NI9wYuVIYcA',
+    title: 'B-Tree Indexes',
+    description: "In this video, I'd like to take a look at B-tree indexes and show how knowing them can help design better database tables and queries.",
+    image: 'https://i.ytimg.com/vi/NI9wYuVIYcA/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=NI9wYuVIYcA&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=NI9wYuVIYcA&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=NI9wYuVIYcA',
+    player: 'https://www.youtube.com/embed/NI9wYuVIYcA',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=clrtT_4WBAw&t=1s
+fetching: 45.255ms
+parcing response: 335.446ms
+parcing HTML 860676
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=clrtT_4WBAw',
+    title: 'PostgreSQL Indexing : How, why, and when.',
+    image: 'https://i.ytimg.com/vi/clrtT_4WBAw/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Curtis Maloneyhttps://2018.pycon-au.org/talks/42913-postgresql-indexing-how-why-and-when/So many of the things we build depend on a DBMS to keep our data saf...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/clrtT_4WBAw?start=1',
+    'video:secure_url': 'https://www.youtube.com/embed/clrtT_4WBAw?start=1',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'CurtisMaloney'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=clrtT_4WBAw',
+    title: 'PostgreSQL Indexing : How, why, and when.',
+    description: 'Curtis Maloneyhttps://2018.pycon-au.org/talks/42913-postgresql-indexing-how-why-and-when/So many of the things we build depend on a DBMS to keep our data saf...',
+    image: 'https://i.ytimg.com/vi/clrtT_4WBAw/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=clrtT_4WBAw&t=1s&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=clrtT_4WBAw&t=1s&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=clrtT_4WBAw',
+    player: 'https://www.youtube.com/embed/clrtT_4WBAw?start=1',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=9jRxz31xDZc
+fetching: 90.249ms
+parcing response: 480.502ms
+parcing HTML 1024928
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=9jRxz31xDZc',
+    title: 'Новые возможности полнотекстового поиска в PostgreSQL / Олег Бартунов (Postgres Professional)',
+    image: 'https://i.ytimg.com/vi/9jRxz31xDZc/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Презентация и тезисы:http://www.highload.ru/2016/abstracts/2352.htmlЯ расскажу про новые возможности полнотекстового поиска, которые вошли в последний релиз ...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/9jRxz31xDZc',
+    'video:secure_url': 'https://www.youtube.com/embed/9jRxz31xDZc',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'highload++'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=9jRxz31xDZc',
+    title: 'Новые возможности полнотекстового поиска в PostgreSQL / Олег Бартунов (Postgres Professional)',
+    description: 'Презентация и тезисы:http://www.highload.ru/2016/abstracts/2352.htmlЯ расскажу про новые возможности полнотекстового поиска, которые вошли в последний релиз ...',
+    image: 'https://i.ytimg.com/vi/9jRxz31xDZc/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=9jRxz31xDZc&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=9jRxz31xDZc&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=9jRxz31xDZc',
+    player: 'https://www.youtube.com/embed/9jRxz31xDZc',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://github.com/swagen/swagen
+fetching: 506.067ms
+parcing response: 15.3ms
+parcing HTML 205950
+{
+  og: {
+    image: 'https://opengraph.githubassets.com/4c835c85da6f7a854272afa4679b27c2b234c569a581a9d148c7793f09e0af68/swagen/swagen',
+    'image:alt': 'Pluggable command line tool to generate code from Swagger JSON definitions - GitHub - swagen/swagen: Pluggable command line tool to generate code from Swagger JSON definitions',
+    'image:width': '1200',
+    'image:height': '600',
+    site_name: 'GitHub',
+    type: 'object',
+    title: 'GitHub - swagen/swagen: Pluggable command line tool to generate code from Swagger JSON definitions',
+    url: 'https://github.com/swagen/swagen',
+    description: 'Pluggable command line tool to generate code from Swagger JSON definitions - GitHub - swagen/swagen: Pluggable command line tool to generate code from Swagger JSON definitions'
+  },
+  twitter: {
+    'image:src': 'https://opengraph.githubassets.com/4c835c85da6f7a854272afa4679b27c2b234c569a581a9d148c7793f09e0af68/swagen/swagen',
+    site: '@github',
+    card: 'summary_large_image',
+    title: 'GitHub - swagen/swagen: Pluggable command line tool to generate code from Swagger JSON definitions',
+    description: 'Pluggable command line tool to generate code from Swagger JSON definitions - GitHub - swagen/swagen: Pluggable command line tool to generate code from Swagger JSON definitions'
+  },
+  schema: {}
+}
+fetching URL https://openapi-generator.tech/
+fetching: 30.645ms
+parcing response: 1.094ms
+parcing HTML 34153
+{
+  og: {
+    image: 'https://openapi-generator.tech/img/docusaurus.png',
+    url: 'https://openapi-generator.tech/',
+    title: 'Hello from OpenAPI Generator | OpenAPI Generator',
+    description: 'Description will go into a meta tag in <head />'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    image: 'https://openapi-generator.tech/img/docusaurus.png'
+  },
+  schema: {}
+}
+fetching URL https://docs.nestjs.com/techniques/logger
+fetching: 525.025ms
+parcing response: 0.903ms
+parcing HTML 14247
+{
+  og: {
+    url: 'https://docs.nestjs.com',
+    type: 'website',
+    site_name: 'Documentation | NestJS - A progressive Node.js framework',
+    title: 'Documentation | NestJS - A progressive Node.js framework',
+    description: 'Nest is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).',
+    image: 'http://nestjs.com/img/nest-og.png',
+    'image:width': '1200',
+    'image:height': '650'
+  },
+  twitter: {
+    card: 'summary',
+    description: 'Nest is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).',
+    title: 'Documentation | NestJS - A progressive Node.js framework'
+  },
+  schema: {}
+}
+fetching URL https://docs.nestjs.com/fundamentals/lazy-loading-modules
+fetching: 171.551ms
+parcing response: 0.979ms
+parcing HTML 14247
+{
+  og: {
+    url: 'https://docs.nestjs.com',
+    type: 'website',
+    site_name: 'Documentation | NestJS - A progressive Node.js framework',
+    title: 'Documentation | NestJS - A progressive Node.js framework',
+    description: 'Nest is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).',
+    image: 'http://nestjs.com/img/nest-og.png',
+    'image:width': '1200',
+    'image:height': '650'
+  },
+  twitter: {
+    card: 'summary',
+    description: 'Nest is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).',
+    title: 'Documentation | NestJS - A progressive Node.js framework'
+  },
+  schema: {}
+}
+fetching URL https://console.cloud.google.com/getting-started?authuser=0&project=corecircle
+fetching: 225.168ms
+parcing response: 40.468ms
+parcing HTML 1166311
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://cloud.google.com/anthos
+fetching: 2.378s
+parcing response: 211.923ms
+parcing HTML 891318
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Gestion de cloud hybride avec Anthos  |  Google Cloud',
+    description: "Anthos est une plate-forme de cloud hybride gérée. Elle étend les services cloud hybrides afin d'offrir une cohérence opérationnelle pour tous les environnements.",
+    url: 'https://cloud.google.com/anthos?hl=fr',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=fr',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'fr'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {}
+}
+fetching URL https://cloud.google.com/solutions/scalable-and-resilient-apps
+fetching: 1.570s
+parcing response: 297.525ms
+parcing HTML 773575
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Patterns for scalable and resilient apps  |  Cloud Architecture Center  |  Google Cloud',
+    url: 'https://cloud.google.com/architecture/scalable-and-resilient-apps',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object] ]
+  }
+}
+fetching URL https://cloud.google.com/solutions/data-lifecycle-cloud-platform
+fetching: 1.220s
+parcing response: 300.003ms
+parcing HTML 860574
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Google Cloud Databases',
+    description: 'Migrate, manage, and modernize data with secure, reliable, and highly available databases from Google Cloud. Find the right database for your needs.',
+    url: 'https://cloud.google.com/products/databases',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {}
+}
+fetching URL https://www.youtube.com/watch?v=NWrZwXK92IM
+fetching: 67.966ms
+parcing response: 495.426ms
+parcing HTML 762368
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=NWrZwXK92IM',
+    title: 'Cap your Firebase spending #1: Setting up a billing PubSub topic',
+    image: 'https://i.ytimg.com/vi/NWrZwXK92IM/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'In this new Firebase Semi-Live series, Todd will show you how to disable your Firebase project (or just send some alerts) when your spending levels get too h...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/NWrZwXK92IM',
+    'video:secure_url': 'https://www.youtube.com/embed/NWrZwXK92IM',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'firebase news'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=NWrZwXK92IM',
+    title: 'Cap your Firebase spending #1: Setting up a billing PubSub topic',
+    description: 'In this new Firebase Semi-Live series, Todd will show you how to disable your Firebase project (or just send some alerts) when your spending levels get too h...',
+    image: 'https://i.ytimg.com/vi/NWrZwXK92IM/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=NWrZwXK92IM&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=NWrZwXK92IM&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=NWrZwXK92IM',
+    player: 'https://www.youtube.com/embed/NWrZwXK92IM',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=WQBjJaSVFoM
+fetching: 43.585ms
+parcing response: 464.584ms
+parcing HTML 1296803
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=WQBjJaSVFoM',
+    title: 'How to Ski | 10 Drills to Conquer the Entire Mountain',
+    image: 'https://i.ytimg.com/vi/WQBjJaSVFoM/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'In this how to ski tutorial we learn about 3 important areas of improvement for you to be able to ski the entire mountain. We do 10 ski drills to work on the...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/WQBjJaSVFoM',
+    'video:secure_url': 'https://www.youtube.com/embed/WQBjJaSVFoM',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'skiing drills for advanced'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=WQBjJaSVFoM',
+    title: 'How to Ski | 10 Drills to Conquer the Entire Mountain',
+    description: 'In this how to ski tutorial we learn about 3 important areas of improvement for you to be able to ski the entire mountain. We do 10 ski drills to work on the...',
+    image: 'https://i.ytimg.com/vi/WQBjJaSVFoM/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=WQBjJaSVFoM&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=WQBjJaSVFoM&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=WQBjJaSVFoM',
+    player: 'https://www.youtube.com/embed/WQBjJaSVFoM',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://firebase.google.com/docs/emulator-suite/connect_auth
+fetching: 1.033s
+parcing response: 255.91ms
+parcing HTML 477499
+{
+  og: {
+    site_name: 'Firebase',
+    type: 'website',
+    title: 'قم بتوصيل تطبيقك بـ Authentication Emulator  |  Firebase Local Emulator Suite',
+    url: 'https://firebase.google.com/docs/emulator-suite/connect_auth?hl=ar',
+    locale: 'ar'
+  },
+  twitter: {},
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object], [Object] ]
+  }
+}
+fetching URL https://m.youtube.com/watch?v=kzVvjKLdAbk
+fetching: 134.79ms
+parcing response: 415.493ms
+parcing HTML 804341
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=kzVvjKLdAbk',
+    title: 'How To Build Product As A Small Startup - Michael Seibel',
+    image: 'https://i.ytimg.com/vi/kzVvjKLdAbk/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Y Combinator CEO and Partner Michael Seibel shares a process for building product as a small startup. https://twitter.com/mwseibelTopics 00:00 - Have a proce...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/kzVvjKLdAbk',
+    'video:secure_url': 'https://www.youtube.com/embed/kzVvjKLdAbk',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'PM'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=kzVvjKLdAbk',
+    title: 'How To Build Product As A Small Startup - Michael Seibel',
+    description: 'Y Combinator CEO and Partner Michael Seibel shares a process for building product as a small startup. https://twitter.com/mwseibelTopics 00:00 - Have a proce...',
+    image: 'https://i.ytimg.com/vi/kzVvjKLdAbk/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?app=desktop&v=kzVvjKLdAbk&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?app=desktop&v=kzVvjKLdAbk&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=kzVvjKLdAbk',
+    player: 'https://www.youtube.com/embed/kzVvjKLdAbk',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://smartreading.ru/blog/biznes-keys/motley-fool-700-tysyach-podpischikov-platyashchih-za-sovety-po-investirovaniyu
+fetching: 1.989s
+parcing response: 1.132ms
+parcing HTML 35232
+{
+  og: {
+    title: 'CEO Smart Reading Михаил Иванов рассказал о бизнес-модели Motley Fool',
+    description: 'В 2020 году во всем мире на фондовый рынок вышло множество частных инвесторов, так называемых «Робин Гудов», которые в несколько кликов со своего телефона покупают акции публичных компаний.',
+    image: 'http://smartreading.ru/uploads/blog/posts/291/b0fPpZNOX6oz2r2xEBl4QnHJACcOYOzLliESMyxc.jpeg',
+    image_secure: 'https://smartreading.ru/uploads/blog/posts/291/b0fPpZNOX6oz2r2xEBl4QnHJACcOYOzLliESMyxc.jpeg',
+    site_name: 'http://blog.smartreading.ru/motley-fool-700-tysyach-podpischikov-platyashchih-za-sovety-po-investirovaniyu',
+    url: 'http://blog.smartreading.ru/motley-fool-700-tysyach-podpischikov-platyashchih-za-sovety-po-investirovaniyu',
+    type: 'website'
+  },
+  twitter: {},
+  schema: {}
+}
+fetching URL https://www.youtube.com/watch?v=C27RVio2rOs
+fetching: 83.332ms
+parcing response: 420.207ms
+parcing HTML 811951
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=C27RVio2rOs',
+    title: 'Michael Seibel - Building Product',
+    image: 'https://i.ytimg.com/vi/C27RVio2rOs/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: "YC CEO Michael Seibel outlines how successful startups think about building something people want. Startup School is YC's free online program for founders. S...",
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/C27RVio2rOs',
+    'video:secure_url': 'https://www.youtube.com/embed/C27RVio2rOs',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'Building Product'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=C27RVio2rOs',
+    title: 'Michael Seibel - Building Product',
+    description: "YC CEO Michael Seibel outlines how successful startups think about building something people want. Startup School is YC's free online program for founders. S...",
+    image: 'https://i.ytimg.com/vi/C27RVio2rOs/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=C27RVio2rOs&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=C27RVio2rOs&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=C27RVio2rOs',
+    player: 'https://www.youtube.com/embed/C27RVio2rOs',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=DOtCl5PU8F0
+fetching: 42.678ms
+parcing response: 413.402ms
+parcing HTML 804244
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=DOtCl5PU8F0',
+    title: 'Kevin Hale - How to Evaluate Startup Ideas',
+    image: 'https://i.ytimg.com/vi/DOtCl5PU8F0/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: "YC Partner Kevin Hale walks us through the process of evaluating ideas and how founders should think about their startups. Startup School is YC's free online...",
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/DOtCl5PU8F0',
+    'video:secure_url': 'https://www.youtube.com/embed/DOtCl5PU8F0',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'startup school'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=DOtCl5PU8F0',
+    title: 'Kevin Hale - How to Evaluate Startup Ideas',
+    description: "YC Partner Kevin Hale walks us through the process of evaluating ideas and how founders should think about their startups. Startup School is YC's free online...",
+    image: 'https://i.ytimg.com/vi/DOtCl5PU8F0/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=DOtCl5PU8F0&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=DOtCl5PU8F0&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=DOtCl5PU8F0',
+    player: 'https://www.youtube.com/embed/DOtCl5PU8F0',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://fireship.io/lessons/meilisearch-firebase-google-cloud/
+fetching: 27.48ms
+parcing response: 0.793ms
+parcing HTML 31617
+{
+  og: {
+    title: 'Fulltext Search on Firebase with Meilisearch',
+    type: 'article',
+    url: 'https://fireship.io/lessons/meilisearch-firebase-google-cloud/',
+    image: 'https://fireship.io/lessons/meilisearch-firebase-google-cloud/img/featured.png',
+    description: 'Build and deploy a fulltext search engine for your Firestore data with Meilisearch.'
+  },
+  twitter: {
+    card: 'summary',
+    site: '@fireship_dev',
+    title: 'Fulltext Search on Firebase with Meilisearch',
+    description: 'Build and deploy a fulltext search engine for your Firestore data with Meilisearch.',
+    image: 'https://fireship.io/lessons/meilisearch-firebase-google-cloud/img/featured.png'
+  },
+  schema: {}
+}
+fetching URL https://web.dev/app-shortcuts/
+fetching: 26.415ms
+parcing response: 11.292ms
+parcing HTML 51701
+{
+  og: {
+    locale: 'en_US',
+    type: 'article',
+    url: 'https://web.dev/app-shortcuts/',
+    site_name: 'web.dev',
+    title: 'Get things done quickly with app shortcuts',
+    description: 'App shortcuts give quick access to a handful of common actions that users need frequently.',
+    image: 'https://web-dev.imgix.net/image/admin/1ekafMZjtzcd0G3TLQJ4.jpg?auto=format&fit=max&w=1200&fm=auto',
+    'image:alt': 'A photo of an Android phone showing an app shortcuts menu'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Get things done quickly with app shortcuts',
+    description: 'App shortcuts give quick access to a handful of common actions that users need frequently.',
+    image: 'https://web-dev.imgix.net/image/admin/1ekafMZjtzcd0G3TLQJ4.jpg?auto=format&fit=max&w=1200&fm=auto'
+  },
+  schema: {}
+}
+fetching URL https://web.dev/content-indexing-api/
+fetching: 359.226ms
+parcing response: 5.137ms
+parcing HTML 98290
+{
+  og: {
+    site_name: 'Chrome Developers',
+    title: 'Indexing your offline-capable pages with the Content Indexing API - Chrome Developers',
+    type: 'website',
+    url: 'https://developer.chrome.com/articles/content-indexing-api/',
+    image: 'https://wd.imgix.net/image/admin/tuIkBEm2DdHBYy62dDac.jpg?auto=format&w=1521',
+    'image:alt': 'Index cards in a filing cabinet.',
+    description: 'Your PWA might cache articles and media files, but how will your users know that your pages work while offline? The Content Indexing API is one answer to this question. Once the index is populated with content from your PWA, as well as any other installed PWAs, it will show up in dedicated areas of supported browsers.'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    image: 'https://wd.imgix.net/image/admin/tuIkBEm2DdHBYy62dDac.jpg?auto=format&w=1521',
+    'image:alt': 'Index cards in a filing cabinet.',
+    description: 'Your PWA might cache articles and media files, but how will your users know that your pages work while offline? The Content Indexing API is one answer to this question. Once the index is populated with content from your PWA, as well as any other installed PWAs, it will show up in dedicated areas of supported browsers.'
+  },
+  schema: {}
+}
+fetching URL https://www.youtube.com/watch?v=ZzzMbM4vemE
+fetching: 43.484ms
+parcing response: 330.635ms
+parcing HTML 764584
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=ZzzMbM4vemE',
+    title: 'Codelab: Firebase Performance Monitoring for web',
+    image: 'https://i.ytimg.com/vi/ZzzMbM4vemE/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Understanding how web performance impacts user experience is extremely valuable. In this video we are going to build a web app that utilizes Firebase Perform...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/ZzzMbM4vemE',
+    'video:secure_url': 'https://www.youtube.com/embed/ZzzMbM4vemE',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'purpose: Educate'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=ZzzMbM4vemE',
+    title: 'Codelab: Firebase Performance Monitoring for web',
+    description: 'Understanding how web performance impacts user experience is extremely valuable. In this video we are going to build a web app that utilizes Firebase Perform...',
+    image: 'https://i.ytimg.com/vi/ZzzMbM4vemE/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=ZzzMbM4vemE&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=ZzzMbM4vemE&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=ZzzMbM4vemE',
+    player: 'https://www.youtube.com/embed/ZzzMbM4vemE',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=HuOHJYAkEFI
+fetching: 51.637ms
+parcing response: 498.738ms
+parcing HTML 771334
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=HuOHJYAkEFI',
+    title: 'Day 3 Keynote | Minko Gechev | ng-conf: Hardwired #ngconfHardwired #ngconf2020',
+    image: 'https://i.ytimg.com/vi/HuOHJYAkEFI/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgThe State of Angular Deployment, SSR and Prerendering.Watch all the ng-conf: Hard...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/HuOHJYAkEFI',
+    'video:secure_url': 'https://www.youtube.com/embed/HuOHJYAkEFI',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'Google Programming'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=HuOHJYAkEFI',
+    title: 'Day 3 Keynote | Minko Gechev | ng-conf: Hardwired #ngconfHardwired #ngconf2020',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgThe State of Angular Deployment, SSR and Prerendering.Watch all the ng-conf: Hard...',
+    image: 'https://i.ytimg.com/vi/HuOHJYAkEFI/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=HuOHJYAkEFI&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=HuOHJYAkEFI&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=HuOHJYAkEFI',
+    player: 'https://www.youtube.com/embed/HuOHJYAkEFI',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=mShzv9QE1Qc
+fetching: 43.212ms
+parcing response: 452.644ms
+parcing HTML 742941
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=mShzv9QE1Qc',
+    title: 'Day 3 Keynote | Igor Minar | ng-conf: Hardwired #ngconfHardwired #ngconf2020',
+    image: 'https://i.ytimg.com/vi/mShzv9QE1Qc/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgBalancing DX & UX needs in Angular.Watch all the ng-conf: Hardwired presentations...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/mShzv9QE1Qc',
+    'video:secure_url': 'https://www.youtube.com/embed/mShzv9QE1Qc',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'ng-conf 2020'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=mShzv9QE1Qc',
+    title: 'Day 3 Keynote | Igor Minar | ng-conf: Hardwired #ngconfHardwired #ngconf2020',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgBalancing DX & UX needs in Angular.Watch all the ng-conf: Hardwired presentations...',
+    image: 'https://i.ytimg.com/vi/mShzv9QE1Qc/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=mShzv9QE1Qc&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=mShzv9QE1Qc&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=mShzv9QE1Qc',
+    player: 'https://www.youtube.com/embed/mShzv9QE1Qc',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=Uz2D8QjQAIE
+fetching: 41.345ms
+parcing response: 380.551ms
+parcing HTML 793143
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=Uz2D8QjQAIE',
+    title: 'Day 1 Keynote | Jules Kremer & Kara Erickson | ng-conf: Hardwired',
+    image: 'https://i.ytimg.com/vi/Uz2D8QjQAIE/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgJules Kremer and Kara Erickson from the Angular team take the stage to share the ...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/Uz2D8QjQAIE',
+    'video:secure_url': 'https://www.youtube.com/embed/Uz2D8QjQAIE',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'ng-conf 2020'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=Uz2D8QjQAIE',
+    title: 'Day 1 Keynote | Jules Kremer & Kara Erickson | ng-conf: Hardwired',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgJules Kremer and Kara Erickson from the Angular team take the stage to share the ...',
+    image: 'https://i.ytimg.com/vi/Uz2D8QjQAIE/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=Uz2D8QjQAIE&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=Uz2D8QjQAIE&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=Uz2D8QjQAIE',
+    player: 'https://www.youtube.com/embed/Uz2D8QjQAIE',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=tTR9OVMC0VE&feature=push-u-sub&attr_tag=HsOb_XM2wqXfSb4z%3A6
+fetching: 84.304ms
+parcing response: 424.26ms
+parcing HTML 794371
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=tTR9OVMC0VE',
+    title: 'ngConf & Nx Webinar: Never Build the Same Code Twice with Nx Cloud',
+    image: 'https://i.ytimg.com/vi/tTR9OVMC0VE/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'This webinar about Nx & Nx Cloud took place on May 21, 2020. Learn more at Https://nx.dev.',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/tTR9OVMC0VE',
+    'video:secure_url': 'https://www.youtube.com/embed/tTR9OVMC0VE',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=tTR9OVMC0VE',
+    title: 'ngConf & Nx Webinar: Never Build the Same Code Twice with Nx Cloud',
+    description: 'This webinar about Nx & Nx Cloud took place on May 21, 2020. Learn more at Https://nx.dev.',
+    image: 'https://i.ytimg.com/vi/tTR9OVMC0VE/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=tTR9OVMC0VE&feature=push-u-sub&attr_tag=HsOb_XM2wqXfSb4z%3A6&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=tTR9OVMC0VE&feature=push-u-sub&attr_tag=HsOb_XM2wqXfSb4z%3A6&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=tTR9OVMC0VE',
+    player: 'https://www.youtube.com/embed/tTR9OVMC0VE',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=OC6g4yFsw0w&feature=push-u-sub&attr_tag=DYZ7UCv5f-v7yomU%3A6
+fetching: 37.939ms
+parcing response: 304.593ms
+parcing HTML 881007
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=OC6g4yFsw0w',
+    title: 'State of RxJS | Ben Lesh | ng-conf: Hardwired',
+    image: 'https://i.ytimg.com/vi/OC6g4yFsw0w/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgRxJS has been steadily growing in popularity and usage as reactive programming pa...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/OC6g4yFsw0w',
+    'video:secure_url': 'https://www.youtube.com/embed/OC6g4yFsw0w',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'Google Programming'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=OC6g4yFsw0w',
+    title: 'State of RxJS | Ben Lesh | ng-conf: Hardwired',
+    description: 'Get your free ticket to EnterpriseNG conference Keynote: https://ng-conf.orgRxJS has been steadily growing in popularity and usage as reactive programming pa...',
+    image: 'https://i.ytimg.com/vi/OC6g4yFsw0w/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=OC6g4yFsw0w&feature=push-u-sub&attr_tag=DYZ7UCv5f-v7yomU%3A6&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=OC6g4yFsw0w&feature=push-u-sub&attr_tag=DYZ7UCv5f-v7yomU%3A6&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=OC6g4yFsw0w',
+    player: 'https://www.youtube.com/embed/OC6g4yFsw0w',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://cloud.google.com/firestore/docs
+fetching: 836.754ms
+parcing response: 288.659ms
+parcing HTML 746224
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Firestore documentation  |  Google Cloud',
+    description: "A cloud-hosted NoSQL database that's simple enough for rapid prototyping yet scalable and flexible enough to grow to any size.\n",
+    url: 'https://cloud.google.com/firestore/docs',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object] ]
+  }
+}
+fetching URL https://github.com/puresec/sas-top-10
+fetching: 1.008s
+parcing response: 39.326ms
+parcing HTML 293292
+{
+  og: {
+    image: 'https://avatars.githubusercontent.com/u/28500582?s=400&v=4',
+    'image:alt': 'Serverless Architectures Security Top 10 Guide. Contribute to puresec/sas-top-10 development by creating an account on GitHub.',
+    site_name: 'GitHub',
+    type: 'object',
+    title: 'GitHub - puresec/sas-top-10: Serverless Architectures Security Top 10 Guide',
+    url: 'https://github.com/puresec/sas-top-10',
+    description: 'Serverless Architectures Security Top 10 Guide. Contribute to puresec/sas-top-10 development by creating an account on GitHub.'
+  },
+  twitter: {
+    'image:src': 'https://avatars.githubusercontent.com/u/28500582?s=400&v=4',
+    site: '@github',
+    card: 'summary',
+    title: 'GitHub - puresec/sas-top-10: Serverless Architectures Security Top 10 Guide',
+    description: 'Serverless Architectures Security Top 10 Guide. Contribute to puresec/sas-top-10 development by creating an account on GitHub.'
+  },
+  schema: {}
+}
+fetching URL https://makebook.io/
+fetching: 118.945ms
+parcing response: 31.535ms
+parcing HTML 353713
+{
+  og: {
+    type: 'website',
+    site_name: 'MAKE',
+    title: 'MAKE',
+    description: 'Learn to build startups the indie way',
+    image: 'https://readmake.com/media.png?1640852070',
+    url: 'https://readmake.com'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@levelsio',
+    creator: '@levelsio',
+    title: 'MAKE',
+    description: 'Learn to build startups the indie way',
+    'image:src': 'https://readmake.com/media.png?1640852070',
+    url: 'https://readmake.com'
+  },
+  schema: {}
+}
+fetching URL https://www.youtube.com/watch?v=lM3jtRAwJlM
+fetching: 41.787ms
+parcing response: 361.169ms
+parcing HTML 957461
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=lM3jtRAwJlM',
+    title: 'Marques Brownlee on Building an Audience and Other Advice for Creators',
+    image: 'https://i.ytimg.com/vi/lM3jtRAwJlM/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Marques Brownlee is a YouTuber. He has over 8 million subscribers to his channel MKBHD where he reviews electronics, drives electric vehicles, and interviews...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/lM3jtRAwJlM',
+    'video:secure_url': 'https://www.youtube.com/embed/lM3jtRAwJlM',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'Craig Cannon'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=lM3jtRAwJlM',
+    title: 'Marques Brownlee on Building an Audience and Other Advice for Creators',
+    description: 'Marques Brownlee is a YouTuber. He has over 8 million subscribers to his channel MKBHD where he reviews electronics, drives electric vehicles, and interviews...',
+    image: 'https://i.ytimg.com/vi/lM3jtRAwJlM/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=lM3jtRAwJlM&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=lM3jtRAwJlM&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=lM3jtRAwJlM',
+    player: 'https://www.youtube.com/embed/lM3jtRAwJlM',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.freecodecamp.org/news/how-much-should-you-charge-for-your-software-as-a-service-tool-45595f49a990/#.kheueimng
+fetching: 792.426ms
+parcing response: 1.382ms
+parcing HTML 42459
+{
+  og: {
+    site_name: 'freeCodeCamp.org',
+    type: 'article',
+    title: 'How much should you charge for your Software-as-a-Service tool?',
+    description: 'by Alex Moskovski How much should you charge for your Software-as-a-Service tool? I analyzed prices from 1,530 products to find out. It takes time to figure out the right pricing for your Software-as-a-Service product. And even a slight mistake can end up costing you a fortune over the long run.',
+    url: 'https://www.freecodecamp.org/news/how-much-should-you-charge-for-your-software-as-a-service-tool-45595f49a990/',
+    image: 'https://cdn-media-1.freecodecamp.org/images/1*JnkteKyZFH5N_33kKH27BA.png',
+    'image:width': '600',
+    'image:height': '400'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'How much should you charge for your Software-as-a-Service tool?',
+    description: 'by Alex Moskovski How much should you charge for your Software-as-a-Service tool? I analyzed prices from 1,530 products to find out. It takes time to figure out the right pricing for your Software-as-a-Service product. And even a slight mistake can end up costing you a fortune over the long run.',
+    url: 'https://www.freecodecamp.org/news/how-much-should-you-charge-for-your-software-as-a-service-tool-45595f49a990/',
+    image: 'https://cdn-media-1.freecodecamp.org/images/1*JnkteKyZFH5N_33kKH27BA.png',
+    label1: 'Written by',
+    data1: 'freeCodeCamp.org',
+    label2: 'Filed under',
+    data2: 'Startup, SaaS, Entrepreneurship, Business, Data Science',
+    site: '@freecodecamp'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    publisher: {
+      '@type': 'Organization',
+      name: 'freeCodeCamp.org',
+      url: 'https://www.freecodecamp.org/news/',
+      logo: [Object]
+    },
+    image: {
+      '@type': 'ImageObject',
+      url: 'https://cdn-media-1.freecodecamp.org/images/1*JnkteKyZFH5N_33kKH27BA.png',
+      width: 600,
+      height: 400
+    },
+    url: 'https://www.freecodecamp.org/news/how-much-should-you-charge-for-your-software-as-a-service-tool-45595f49a990/',
+    mainEntityOfPage: { '@type': 'WebPage', '@id': 'https://www.freecodecamp.org/news/' },
+    datePublished: '2017-03-03T07:24:45.000Z',
+    dateModified: '2017-02-20T12:33:47.000Z',
+    keywords: 'Startup, SaaS, Entrepreneurship, Business, Data Science',
+    description: 'by Alex Moskovski\n' +
+      '\n' +
+      'How much should you charge for your Software-as-a-Service tool? I analyzed\n' +
+      'prices from 1,530 products to find out.\n' +
+      'It takes time to figure out the right pricing for your Software-as-a-Service\n' +
+      'product. And even a slight mistake can end up costing you a fortune over the\n' +
+      'long run.\n' +
+      '\n' +
+      'I can’t overestimate the importance of exploring the market around you and\n' +
+      'understanding the pricing in your niche. The good news is that I’ve already done\n' +
+      'a lot of this research for you.\n' +
+      '\n' +
+      'This collect',
+    headline: 'How much should you charge for your Software-as-a-Service tool?',
+    author: {
+      '@type': 'Person',
+      name: 'freeCodeCamp.org',
+      url: 'https://www.freecodecamp.org/news/author/freecodecamp/',
+      sameAs: [],
+      image: [Object]
+    }
+  }
+}
+fetching URL https://www.inc.com/magazine/201212/jason-fried/marketing-without-marketing.html
+fetching: 169.824ms
+parcing response: 0.642ms
+parcing HTML 578
+{ og: {}, twitter: {}, schema: {} }
+fetching URL http://paulgraham.com/ds.html
+fetching: 599.585ms
+parcing response: 8.62ms
+parcing HTML 36151
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://basecamp.com/books/getting-real
+fetching: 1.794s
+parcing response: 0.624ms
+parcing HTML 22513
+{
+  og: {
+    site_name: '37signals',
+    title: 'Books by 37signals',
+    description: 'On top of making Basecamp and HEY, we write books about what we’ve learned running our own business. They’re filled with practical advice you won’t find elsewhere.',
+    image: 'https://37signals.com/assets/images/opengraph.png',
+    url: 'https://37signals.com/books/',
+    type: 'website'
+  },
+  twitter: {
+    title: 'Books by 37signals',
+    description: 'On top of making Basecamp and HEY, we write books about what we’ve learned running our own business. They’re filled with practical advice you won’t find elsewhere.',
+    image: 'https://37signals.com/assets/images/opengraph.png',
+    card: 'summary_large_image',
+    creator: '@37signals',
+    site: '@37signals',
+    'image:alt': '37signals'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: '37signals',
+    url: 'https://37signals.com'
+  }
+}
+fetching URL https://www.joelonsoftware.com/2002/01/06/fire-and-motion/
+fetching: 572.863ms
+parcing response: 3.189ms
+parcing HTML 53078
+{
+  og: {
+    type: 'article',
+    title: 'Fire And Motion',
+    url: 'https://www.joelonsoftware.com/2002/01/06/fire-and-motion/',
+    description: 'Sometimes I just can’t get anything done. Sure, I come into the office, putter around, check my email every ten seconds, read the web, even do a few brainless tasks like paying the American E…',
+    site_name: 'Joel on Software',
+    image: 'https://149366100.v2.pressablecdn.com/wp-content/uploads/2002/01/editing.gif',
+    'image:secure_url': 'https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2002/01/editing.gif?ssl=1',
+    'image:width': '359',
+    'image:height': '217',
+    'image:alt': "It's getting better all the time... o/~",
+    locale: 'en_US'
+  },
+  twitter: {
+    'text:title': 'Fire And Motion',
+    image: 'https://149366100.v2.pressablecdn.com/wp-content/uploads/2002/01/bored-tetris.gif?w=144',
+    'image:alt': 'Tetris',
+    card: 'summary'
+  },
+  schema: {}
+}
+fetching URL https://signalvnoise.com/posts/3972-reconsider
+fetching: 947.933ms
+parcing response: 418.66ms
+parcing HTML 55533
+{
+  og: {
+    site_name: 'Signal v. Noise by Basecamp',
+    type: 'article',
+    url: 'https://signalvnoise.com/posts/3972-reconsider',
+    title: 'RECONSIDER',
+    description: '\n' +
+      '\n' +
+      '\n' +
+      '\tAbout 12 years ago, I co-founded a startup called Basecamp: A simple project collaboration tool that helps people make progress together, sold on a monthly subscription.\n' +
+      '\n' +
+      '\n' +
+      '\tIt took a part of some people’s work life and made it a little better. A little nicer than trying to manage a project over…',
+    image: 'https://s3.amazonaws.com/37assets/svn/2061-horse-pumping-color.png'
+  },
+  twitter: {},
+  schema: {}
+}
+fetching URL http://www.paulgraham.com/startupideas.html
+fetching: 586.788ms
+parcing response: 253.856ms
+parcing HTML 50934
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://cloud.google.com/dataflow
+fetching: 1.994s
+parcing response: 233.546ms
+parcing HTML 824629
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Dataflow  |  Google Cloud',
+    description: 'Dataflow is a fully managed streaming analytics service that minimizes latency, processing time, and cost through autoscaling and batch processing.',
+    url: 'https://cloud.google.com/dataflow',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {}
+}
+fetching URL https://www.producthunt.com/
+fetching: 337.794ms
+parcing response: 13.113ms
+parcing HTML 276343
+{
+  og: {
+    site_name: 'Product Hunt',
+    title: ' Product Hunt – The best new products in tech. ',
+    type: 'article',
+    image: 'https://ph-static.imgix.net/ph-logo-1.png',
+    description: "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+    locale: 'en_US',
+    url: 'https://www.producthunt.com/'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@producthunt',
+    title: ' Product Hunt – The best new products in tech. ',
+    description: "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+    image: 'https://ph-static.imgix.net/ph-logo-1.png',
+    creator: '@producthunt'
+  },
+  schema: [
+    {
+      '@context': 'http://schema.org',
+      '@id': 'https://www.producthunt.com/#organization',
+      '@type': 'Organization',
+      name: 'Product Hunt',
+      url: 'https://www.producthunt.com/',
+      logo: 'https://ph-static.imgix.net/ph-logo-p-only.png?auto=format&auto=compress',
+      sameAs: [Array]
+    },
+    {
+      '@context': 'http://schema.org',
+      '@id': 'https://www.producthunt.com/#webpage',
+      '@type': 'WebPage',
+      url: 'https://www.producthunt.com/',
+      name: 'Product Hunt'
+    },
+    {
+      '@context': 'http://schema.org',
+      '@id': 'https://www.producthunt.com/#website',
+      '@type': 'WebSite',
+      url: 'https://www.producthunt.com/',
+      name: 'Product Hunt',
+      potentialAction: [Array]
+    }
+  ]
+}
+fetching URL https://ofone.co/wp-content/uploads/2019/01/Company-of-One-Excerpt-PDF.pdf
+fetching: 1.178s
+parcing response: 1.145ms
+parcing HTML 19460
+{
+  og: {
+    type: 'website',
+    title: 'Paul Jarvis, author, designer and co-founder of Fathom Analytics',
+    description: 'You’ve landed here in search of Paul Jarvis—author of Company of One and podcast host for Call Paul',
+    url: 'https://usefathom.com/pjrvs',
+    site_name: 'Fathom Analytics',
+    locale: 'en',
+    image: 'https://usefathom.com/assets/images/social-share.png',
+    'image:alt': 'You’ve landed here in search of Paul Jarvis—author of Company of One and podcast host for Call Paul'
+  },
+  twitter: {
+    card: 'summary',
+    site: '@usefathom',
+    title: 'Paul Jarvis, author, designer and co-founder of Fathom Analytics',
+    description: 'You’ve landed here in search of Paul Jarvis—author of Company of One and podcast host for Call Paul',
+    image: 'https://usefathom.com/assets/images/social-share.png',
+    'image:alt': 'You’ve landed here in search of Paul Jarvis—author of Company of One and podcast host for Call Paul'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'Corporation',
+    description: 'Privacy-focused website analytics from a sustainable company. A GDPR compliant, Google Analytics alternative.',
+    name: 'Fathom Analytics',
+    alternateName: 'Fathom',
+    url: 'https://usefathom.com',
+    logo: 'https://usefathom.com/assets/images/favicon.png',
+    sameAs: [
+      'https://twitter.com/usefathom',
+      'https://www.youtube.com/channel/UCh-bZHHOxxxSoiHDCfbxU_w',
+      'https://www.linkedin.com/company/fathom-analytics'
+    ],
+    founder: [ [Object], [Object] ],
+    foundingDate: '2018-04-24',
+    contactPoint: [ [Object] ]
+  }
+}
+fetching URL https://stackingthebricks.com/
+fetching: 279.506ms
+parcing response: 2.101ms
+parcing HTML 10324
+{
+  og: {
+    type: 'article',
+    title: 'Build Your Business, One Win At A Time',
+    description: 'Ship more stuff. Make more money. Help more people.',
+    url: 'https://stackingthebricks.com/'
+  },
+  twitter: {
+    'widgets:csp': 'on',
+    card: 'summary_large_image',
+    site: '@stackingbricks',
+    title: 'Build Your Business, One Win At A Time',
+    description: 'Ship more stuff. Make more money. Help more people.',
+    image: 'https://stb-socialcards.netlify.app/.netlify/functions/create-card/?title=Build%2520Your%2520Business%252C%2520One%2520Win%2520At%2520A%2520Time&author_name=Stacking+the+Bricks&author_avatar=https%3A%2F%2Fstackingthebricks.com%2Ficon-256.png'
+  },
+  schema: {}
+}
+fetching URL https://cloud.google.com/blog/products/application-development/serverless-in-action-building-a-simple-backend-with-cloud-firestore-and-cloud-functions
+fetching: 101.302ms
+parcing response: 442.037ms
+parcing HTML 186522
+{
+  og: {
+    title: 'Serverless in action: building a simple backend with Cloud Firestore and Cloud Functions | Google Cloud Blog',
+    type: 'website',
+    url: 'https://cloud.google.com/blog/products/application-development/serverless-in-action-building-a-simple-backend-with-cloud-firestore-and-cloud-functions',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_App_Dev_4.max-2600x2600.jpg',
+    site_name: 'Google Cloud Blog'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    url: 'https://cloud.google.com/blog/products/application-development/serverless-in-action-building-a-simple-backend-with-cloud-firestore-and-cloud-functions',
+    title: 'Serverless in action: building a simple backend with Cloud Firestore and Cloud Functions | Google Cloud Blog',
+    description: '',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_App_Dev_4.max-2600x2600.jpg',
+    site: '@googlecloud'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: 'Serverless in action: building a simple backend with Cloud Firestore and Cloud Functions',
+    description: '',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/Google_Cloud_App_Dev_4.max-2600x2600.jpg',
+    author: [ [Object] ],
+    datePublished: '2018-10-12',
+    publisher: { '@type': 'Organization', name: 'Google Cloud', logo: [Object] }
+  }
+}
+fetching URL https://cloud.google.com/blog/products/serverless/serverless-from-the-ground-up-building-a-simple-microservice-with-cloud-functions-part-1
+fetching: 151.191ms
+parcing response: 448.559ms
+parcing HTML 187254
+{
+  og: {
+    title: 'Serverless from the ground up: Building a simple microservice with Cloud Functions (Part 1) | Google Cloud Blog',
+    type: 'website',
+    url: 'https://cloud.google.com/blog/products/serverless/serverless-from-the-ground-up-building-a-simple-microservice-with-cloud-functions-part-1',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/DO_NOT_USE_VPnx08d.max-2500x2500.jpg',
+    site_name: 'Google Cloud Blog'
+  },
+  twitter: {
+    card: 'summary_large_image',
+    url: 'https://cloud.google.com/blog/products/serverless/serverless-from-the-ground-up-building-a-simple-microservice-with-cloud-functions-part-1',
+    title: 'Serverless from the ground up: Building a simple microservice with Cloud Functions (Part 1) | Google Cloud Blog',
+    description: '',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/DO_NOT_USE_VPnx08d.max-2500x2500.jpg',
+    site: '@googlecloud'
+  },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: 'Serverless from the ground up: Building a simple microservice with Cloud Functions (Part 1)',
+    description: '',
+    image: 'https://storage.googleapis.com/gweb-cloudblog-publish/images/DO_NOT_USE_VPnx08d.max-2500x2500.jpg',
+    author: [ [Object] ],
+    datePublished: '2018-10-20',
+    publisher: { '@type': 'Organization', name: 'Google Cloud', logo: [Object] }
+  }
+}
+fetching URL https://cloud.google.com/tasks/docs/dual-overview
+fetching: 888.173ms
+parcing response: 149.419ms
+parcing HTML 740197
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Understand Cloud Tasks  |  Cloud Tasks Documentation  |  Google Cloud',
+    url: 'https://cloud.google.com/tasks/docs/dual-overview',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object], [Object] ]
+  }
+}
+fetching URL https://cloud.google.com/community/tutorials/cloud-functions-async
+fetching: 832.244ms
+parcing response: 285.154ms
+parcing HTML 798460
+{
+  og: {
+    site_name: 'Google Cloud',
+    type: 'website',
+    title: 'Write Cloud Functions  |  Cloud Functions Documentation  |  Google Cloud',
+    url: 'https://cloud.google.com/functions/docs/writing',
+    image: 'https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png',
+    'image:width': '1200',
+    'image:height': '630',
+    locale: 'en'
+  },
+  twitter: { card: 'summary_large_image' },
+  schema: {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object], [Object], [Object] ]
+  }
+}
+fetching URL https://medium.com/swlh/how-to-write-for-the-internet-c2899e4cd4b5
+fetching: 779.128ms
+parcing response: 4.504ms
+parcing HTML 97629
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'How to Write for the Internet',
+    description: 'There are two things that I know how to do well. One is how to write, and the second…actually I really only know how to do one thing well.',
+    url: 'https://medium.com/swlh/how-to-write-for-the-internet-c2899e4cd4b5',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/0*Z34Q1RTvoKo_iBai'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@startitup_',
+    'app:url:iphone': 'medium://p/c2899e4cd4b5',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/0*Z34Q1RTvoKo_iBai',
+    card: 'summary_large_image',
+    creator: '@m_donnellon',
+    label1: 'Reading time',
+    data1: '2 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/0*Z34Q1RTvoKo_iBai',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Matthew Donnellon',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Sep 14, 2019',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [ 'https://miro.medium.com/v2/resize:fit:1200/0*Z34Q1RTvoKo_iBai' ],
+    url: 'https://medium.com/swlh/how-to-write-for-the-internet-c2899e4cd4b5',
+    dateCreated: '2019-09-14T14:36:01.900Z',
+    datePublished: '2019-09-14T14:36:01.900Z',
+    dateModified: '2021-12-11T20:39:41.087Z',
+    headline: 'How to Write for the Internet - The Startup - Medium',
+    name: 'How to Write for the Internet - The Startup - Medium',
+    description: 'There are two things that I know how to do well. One is how to write, and the second…actually I really only know how to do one thing well. Writing works best when it is tailored to fit the situation…',
+    identifier: 'c2899e4cd4b5',
+    author: {
+      '@type': 'Person',
+      name: 'Matthew Donnellon',
+      url: 'https://matthewdonnellon.medium.com'
+    },
+    creator: [ 'Matthew Donnellon' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'The Startup',
+      url: 'https://medium.com/swlh',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://medium.com/swlh/how-to-write-for-the-internet-c2899e4cd4b5',
+    isAccessibleForFree: 'False',
+    hasPart: {
+      '@type': 'WebPageElement',
+      isAccessibleForFree: 'False',
+      cssSelector: '.meteredContent'
+    }
+  }
+}
+fetching URL https://medium.com/@fionnachan/on-writing-a-technical-article-4ab83e774fb8
+fetching: 2.115s
+parcing response: 5.357ms
+parcing HTML 107343
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'On Writing a Technical Article',
+    description: 'I know some developers who are blessedly good at coding and good at being a tutor at the same time, yet very few of them would pick up the…',
+    url: 'https://fionnachan.medium.com/on-writing-a-technical-article-4ab83e774fb8',
+    image: 'https://miro.medium.com/v2/resize:fit:1000/0*7rJfofP0tyS-gjVH'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@Medium',
+    'app:url:iphone': 'medium://p/4ab83e774fb8',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1000/0*7rJfofP0tyS-gjVH',
+    card: 'summary_large_image',
+    label1: 'Reading time',
+    data1: '2 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1000/0*7rJfofP0tyS-gjVH',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Fionna Chan',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Nov 12, 2018',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [ 'https://miro.medium.com/v2/resize:fit:1200/0*7rJfofP0tyS-gjVH' ],
+    url: 'https://fionnachan.medium.com/on-writing-a-technical-article-4ab83e774fb8',
+    dateCreated: '2018-11-12T15:21:28.194Z',
+    datePublished: '2018-11-12T15:21:28.194Z',
+    dateModified: '2019-04-17T03:59:46.183Z',
+    headline: 'On Writing a Technical Article - Fionna Chan - Medium',
+    name: 'On Writing a Technical Article - Fionna Chan - Medium',
+    description: 'I know some developers who are blessedly good at coding and good at being a tutor at the same time, yet very few of them would pick up the pen (or type out on their keyboard) for technical topics…',
+    identifier: '4ab83e774fb8',
+    author: {
+      '@type': 'Person',
+      name: 'Fionna Chan',
+      url: 'https://fionnachan.medium.com'
+    },
+    creator: [ 'Fionna Chan' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'Medium',
+      url: 'https://fionnachan.medium.com/',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://fionnachan.medium.com/on-writing-a-technical-article-4ab83e774fb8'
+  }
+}
+fetching URL https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9
+fetching: 356.997ms
+parcing response: 2.598ms
+parcing HTML 99605
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'Best Practices for Writing On Medium',
+    description: 'A non-exhaustive list of tips from our editors',
+    url: 'https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/0*ozRdZLQQ3z86s5yL'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@medium',
+    'app:url:iphone': 'medium://p/386506ae62b9',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/0*ozRdZLQQ3z86s5yL',
+    card: 'summary_large_image',
+    creator: '@siobhannyc',
+    label1: 'Reading time',
+    data1: '2 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/0*ozRdZLQQ3z86s5yL',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': "Siobhan O'Connor",
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Jun 27, 2018',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [ 'https://miro.medium.com/v2/resize:fit:1200/0*ozRdZLQQ3z86s5yL' ],
+    url: 'https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9',
+    dateCreated: '2018-06-27T17:02:50.600Z',
+    datePublished: '2018-06-27T17:02:50.600Z',
+    dateModified: '2018-06-27T22:03:19.389Z',
+    headline: 'Best Practices for Writing On Medium - 3 Min Read',
+    name: 'Best Practices for Writing On Medium - 3 Min Read',
+    description: 'Medium is an open platform and a publisher. Anyone can write a piece on Medium and, as long as it’s not in violation of our rules, have the potential to find an audience. We celebrate diverse voices…',
+    identifier: '386506ae62b9',
+    author: {
+      '@type': 'Person',
+      name: "Siobhan O'Connor",
+      url: 'https://siobhan.medium.com'
+    },
+    creator: [ "Siobhan O'Connor" ],
+    publisher: {
+      '@type': 'Organization',
+      name: '3 Min Read',
+      url: 'blog.medium.com',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9'
+  }
+}
+fetching URL https://medium.com/firebase-developers/write-for-us-66032505ed8b
+fetching: 665.814ms
+parcing response: 4.07ms
+parcing HTML 109718
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'Write for us!',
+    description: 'We’re always looking for great content to help developers build better apps using Firebase! If you’re working on a blog post that you…',
+    url: 'https://medium.com/firebase-developers/write-for-us-66032505ed8b',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/0*7GYu2K4B8CaVDVfU'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@firebase',
+    'app:url:iphone': 'medium://p/66032505ed8b',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/0*7GYu2K4B8CaVDVfU',
+    card: 'summary_large_image',
+    label1: 'Reading time',
+    data1: '3 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/0*7GYu2K4B8CaVDVfU',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Firebase',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Mar 15, 2022',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [ 'https://miro.medium.com/v2/resize:fit:1200/0*7GYu2K4B8CaVDVfU' ],
+    url: 'https://medium.com/firebase-developers/write-for-us-66032505ed8b',
+    dateCreated: '2019-10-01T17:12:52.076Z',
+    datePublished: '2019-10-01T17:12:52.076Z',
+    dateModified: '2022-03-15T17:52:45.543Z',
+    headline: 'Write for us! - Firebase Developers - Medium',
+    name: 'Write for us! - Firebase Developers - Medium',
+    description: 'We’re always looking for great content to help developers build better apps using Firebase! If you’re working on a blog post that you think our audience would find helpful, consider submitting it to…',
+    identifier: '66032505ed8b',
+    author: {
+      '@type': 'Person',
+      name: 'Firebase',
+      url: 'https://medium.com/@firebaseyt'
+    },
+    creator: [ 'Firebase' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'Firebase Developers',
+      url: 'https://medium.com/firebase-developers',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://medium.com/firebase-developers/write-for-us-66032505ed8b'
+  }
+}
+fetching URL https://www.youtube.com/watch?v=7JucMlrs3dQ
+fetching: 122.962ms
+parcing response: 437.965ms
+parcing HTML 680543
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=7JucMlrs3dQ',
+    title: "You're Testing Your Angular Code Wrong (Probably)",
+    image: 'https://i.ytimg.com/vi/7JucMlrs3dQ/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: '$200 off Discount Link: https://ti.to/ng-conf/2020/discount/YY35253Are you wondering why your unit tests are taking too long to execute?  Want to improve the...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/7JucMlrs3dQ',
+    'video:secure_url': 'https://www.youtube.com/embed/7JucMlrs3dQ',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'angular 9'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=7JucMlrs3dQ',
+    title: "You're Testing Your Angular Code Wrong (Probably)",
+    description: '$200 off Discount Link: https://ti.to/ng-conf/2020/discount/YY35253Are you wondering why your unit tests are taking too long to execute?  Want to improve the...',
+    image: 'https://i.ytimg.com/vi/7JucMlrs3dQ/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=7JucMlrs3dQ&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=7JucMlrs3dQ&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=7JucMlrs3dQ',
+    player: 'https://www.youtube.com/embed/7JucMlrs3dQ',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.upwork.com/hiring/for-clients/marketing-without-a-budget/
+fetching: 68.323ms
+parcing response: 0.816ms
+parcing HTML 7329
+{ og: {}, twitter: {}, schema: {} }
+fetching URL https://blog.nrwl.io/write-it-down-55086ca4f2ee
+fetching: 2.480s
+parcing response: 3.666ms
+parcing HTML 149277
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'Write It Down!',
+    description: 'This post is different from our normal posts. It isn’t about Angular or JavaScript. It is simply about writing things down.',
+    url: 'https://blog.nrwl.io/write-it-down-55086ca4f2ee',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/1*oOiNWc6b0PSXHHEtZuW64g.jpeg'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@nxdevtools',
+    'app:url:iphone': 'medium://p/55086ca4f2ee',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/1*oOiNWc6b0PSXHHEtZuW64g.jpeg',
+    card: 'summary_large_image',
+    creator: '@victorsavkin',
+    label1: 'Reading time',
+    data1: '5 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/1*oOiNWc6b0PSXHHEtZuW64g.jpeg',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Victor Savkin',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Aug 24, 2017',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [
+      'https://miro.medium.com/v2/resize:fit:1200/1*oOiNWc6b0PSXHHEtZuW64g.jpeg'
+    ],
+    url: 'https://blog.nrwl.io/write-it-down-55086ca4f2ee',
+    dateCreated: '2017-08-24T14:22:31.380Z',
+    datePublished: '2017-08-24T14:22:31.380Z',
+    dateModified: '2018-06-19T21:44:49.078Z',
+    headline: 'Write It Down! - Nx Devtools',
+    name: 'Write It Down! - Nx Devtools',
+    description: 'This post is different from our normal posts. It isn’t about Angular or JavaScript. It is simply about writing things down. This article is about how I keep a detailed log of my day-to-day life. And…',
+    identifier: '55086ca4f2ee',
+    author: {
+      '@type': 'Person',
+      name: 'Victor Savkin',
+      url: 'https://blog.nrwl.io/@vsavkin'
+    },
+    creator: [ 'Victor Savkin' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'Nx Devtools',
+      url: 'blog.nrwl.io',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://blog.nrwl.io/write-it-down-55086ca4f2ee'
+  }
+}
+fetching URL https://www.youtube.com/watch?v=I6_iR8ExJzY
+fetching: 99.505ms
+parcing response: 489.882ms
+parcing HTML 659732
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=I6_iR8ExJzY',
+    title: 'Книга за 30 минут: Ценовая стратегия (Часть 2)',
+    image: 'https://i.ytimg.com/vi/I6_iR8ExJzY/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Первая часть книги - https://www.youtube.com/watch?v=XVNvQJIJxb8&t=0sВ книге Дена Кеннеди - "Ценовая стратегия", ты узнаешь о том, как правильно устанавливат...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/I6_iR8ExJzY',
+    'video:secure_url': 'https://www.youtube.com/embed/I6_iR8ExJzY',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'букич'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=I6_iR8ExJzY',
+    title: 'Книга за 30 минут: Ценовая стратегия (Часть 2)',
+    description: 'Первая часть книги - https://www.youtube.com/watch?v=XVNvQJIJxb8&t=0sВ книге Дена Кеннеди - "Ценовая стратегия", ты узнаешь о том, как правильно устанавливат...',
+    image: 'https://i.ytimg.com/vi/I6_iR8ExJzY/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=I6_iR8ExJzY&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=I6_iR8ExJzY&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=I6_iR8ExJzY',
+    player: 'https://www.youtube.com/embed/I6_iR8ExJzY',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://www.youtube.com/watch?v=XVNvQJIJxb8
+fetching: 37.616ms
+parcing response: 493.154ms
+parcing HTML 1142717
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=XVNvQJIJxb8',
+    title: 'Книга за 30 минут: Ценовая стратегия (Часть 1)',
+    image: 'https://i.ytimg.com/vi/XVNvQJIJxb8/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'В книге Дена Кеннеди - "Ценовая стратегия", ты узнаешь о том, как правильно устанавливать цены на свои товары и услуги. Как "Бесплатно" может разрушить твой ...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/XVNvQJIJxb8',
+    'video:secure_url': 'https://www.youtube.com/embed/XVNvQJIJxb8',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'бизнес'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=XVNvQJIJxb8',
+    title: 'Книга за 30 минут: Ценовая стратегия (Часть 1)',
+    description: 'В книге Дена Кеннеди - "Ценовая стратегия", ты узнаешь о том, как правильно устанавливать цены на свои товары и услуги. Как "Бесплатно" может разрушить твой ...',
+    image: 'https://i.ytimg.com/vi/XVNvQJIJxb8/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=XVNvQJIJxb8&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=XVNvQJIJxb8&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=XVNvQJIJxb8',
+    player: 'https://www.youtube.com/embed/XVNvQJIJxb8',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+fetching URL https://medium.com/swlh/testing-guide-for-cloud-firestore-functions-and-security-rules-39d9f3c92d99
+fetching: 647.638ms
+parcing response: 3.398ms
+parcing HTML 91818
+{
+  og: {
+    site_name: 'Medium',
+    type: 'article',
+    title: 'Testing guide for Cloud Firestore functions and security rules',
+    description: 'Setting up the local firebase emulator for testing doesn’t have to be painful.',
+    url: 'https://medium.com/swlh/testing-guide-for-cloud-firestore-functions-and-security-rules-39d9f3c92d99',
+    image: 'https://miro.medium.com/v2/resize:fit:1200/1*0a8UZxHW5C7FVx7aQRFOlg.jpeg'
+  },
+  twitter: {
+    'app:name:iphone': 'Medium',
+    'app:id:iphone': '828256236',
+    site: '@startitup_',
+    'app:url:iphone': 'medium://p/39d9f3c92d99',
+    'image:src': 'https://miro.medium.com/v2/resize:fit:1200/1*0a8UZxHW5C7FVx7aQRFOlg.jpeg',
+    card: 'summary_large_image',
+    creator: '@danahartweg',
+    label1: 'Reading time',
+    data1: '12 min read',
+    'tile:template:testing': '2',
+    'tile:image': 'https://miro.medium.com/v2/resize:fit:1200/1*0a8UZxHW5C7FVx7aQRFOlg.jpeg',
+    'tile:info1:icon': 'Person',
+    'tile:info1:text': 'Dana Hartweg',
+    'tile:info2:icon': 'Calendar',
+    'tile:info2:text': 'Jul 28, 2021',
+    cta: 'Read on Medium'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'NewsArticle',
+    image: [
+      'https://miro.medium.com/v2/resize:fit:1200/1*0a8UZxHW5C7FVx7aQRFOlg.jpeg'
+    ],
+    url: 'https://medium.com/swlh/testing-guide-for-cloud-firestore-functions-and-security-rules-39d9f3c92d99',
+    dateCreated: '2019-10-19T21:22:10.429Z',
+    datePublished: '2019-10-19T21:22:10.429Z',
+    dateModified: '2021-12-12T10:40:15.708Z',
+    headline: 'Testing guide for Cloud Firestore functions and security rules',
+    name: 'Testing guide for Cloud Firestore functions and security rules',
+    description: 'Get started testing Cloud Firestore security rules and cloud functions with the local emulator.',
+    identifier: '39d9f3c92d99',
+    author: {
+      '@type': 'Person',
+      name: 'Dana Hartweg',
+      url: 'https://danahartweg.com'
+    },
+    creator: [ 'Dana Hartweg' ],
+    publisher: {
+      '@type': 'Organization',
+      name: 'The Startup',
+      url: 'https://medium.com/swlh',
+      logo: [Object]
+    },
+    mainEntityOfPage: 'https://medium.com/swlh/testing-guide-for-cloud-firestore-functions-and-security-rules-39d9f3c92d99',
+    isAccessibleForFree: 'False',
+    hasPart: {
+      '@type': 'WebPageElement',
+      isAccessibleForFree: 'False',
+      cssSelector: '.meteredContent'
+    }
+  }
+}
+fetching URL https://www.youtube.com/watch?v=iLcDo1K4MWA
+fetching: 39.06ms
+parcing response: 367.768ms
+parcing HTML 652933
+{
+  og: {
+    site_name: 'YouTube',
+    url: 'https://www.youtube.com/watch?v=iLcDo1K4MWA',
+    title: 'Думай, как ГЕНИЙ маркетинга (Финальная часть)',
+    image: 'https://i.ytimg.com/vi/iLcDo1K4MWA/maxresdefault.jpg',
+    'image:width': '1280',
+    'image:height': '720',
+    description: 'Первая - https://www.youtube.com/watch?v=lvWTdzv36Rg&t=0sВторая - https://www.youtube.com/watch?v=Soxo-r98qXs&t=0sТретья - https://www.youtube.com/watch?v=7n...',
+    type: 'video.other',
+    'video:url': 'https://www.youtube.com/embed/iLcDo1K4MWA',
+    'video:secure_url': 'https://www.youtube.com/embed/iLcDo1K4MWA',
+    'video:type': 'text/html',
+    'video:width': '1280',
+    'video:height': '720',
+    'video:tag': 'маркетинговые стратегии'
+  },
+  twitter: {
+    card: 'player',
+    site: '@youtube',
+    url: 'https://www.youtube.com/watch?v=iLcDo1K4MWA',
+    title: 'Думай, как ГЕНИЙ маркетинга (Финальная часть)',
+    description: 'Первая - https://www.youtube.com/watch?v=lvWTdzv36Rg&t=0sВторая - https://www.youtube.com/watch?v=Soxo-r98qXs&t=0sТретья - https://www.youtube.com/watch?v=7n...',
+    image: 'https://i.ytimg.com/vi/iLcDo1K4MWA/maxresdefault.jpg',
+    'app:name:iphone': 'YouTube',
+    'app:id:iphone': '544007664',
+    'app:name:ipad': 'YouTube',
+    'app:id:ipad': '544007664',
+    'app:url:iphone': 'vnd.youtube://www.youtube.com/watch?v=iLcDo1K4MWA&feature=applinks',
+    'app:url:ipad': 'vnd.youtube://www.youtube.com/watch?v=iLcDo1K4MWA&feature=applinks',
+    'app:name:googleplay': 'YouTube',
+    'app:id:googleplay': 'com.google.android.youtube',
+    'app:url:googleplay': 'https://www.youtube.com/watch?v=iLcDo1K4MWA',
+    player: 'https://www.youtube.com/embed/iLcDo1K4MWA',
+    'player:width': '1280',
+    'player:height': '720'
+  },
+  schema: {
+    '@context': 'http://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [ [Object] ]
+  }
+}
+WebSocketServer listening on port 8080
+
+  VITE v4.2.1  ready in 78001 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+7:26:58 PM [vite-plugin-svelte] ssr compile done.
+package     	files	  time	   avg
+tabs-manager	    1	38.8ms	38.8ms
+
+[35m🌼 daisyUI components 2.51.5[0m [0m https://daisyui.com
+  [32m✔︎ Including:[0m [0m base, components, 29 themes, utilities
+  [32m❤︎ Support daisyUI: [0m https://opencollective.com/daisyui [0m
+  
+received: {"t":"auth/reSignIn","data":{"id":"9HvJyknriWtrJLF","sessionId":"XMBTyxVfcFgx3qnvCRnEdTBVJxyd9a9A9SQ1PjRz"}}
+received: {"t":"auth/reSignIn","data":{"id":"9HvJyknriWtrJLF","sessionId":"RBIpczumB7QrLHY6CWFrReteVn3LT7Y9HFjhqEZa"}}
+received: {"t":"link/list"}
+received: {"t":"tag/list"}
+received: {"t":"tag/link/list"}
+received: {"t":"link/list"}
+received: {"t":"tag/list"}
+received: {"t":"tag/link/list"}
+7:50:02 PM [vite] src/lib/server/routes/link.route.ts changed, restarting server...
+ ELIFECYCLE  Command failed with exit code 1.
